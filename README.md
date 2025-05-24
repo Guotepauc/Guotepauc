@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi i am Frederic, a cybersecurity enthousiast 👋
+This is my public cybersecurity page
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
 
 <!--
 **Guotepauc/Guotepauc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
