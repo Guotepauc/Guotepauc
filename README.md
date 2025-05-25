@@ -2,14 +2,14 @@
 This is my public cybersecurity page
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/2d/8f/5c/2d8f5c237882b5ada9aa115250fec6f4.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/2d/8f/5c/2d8f5c237882b5ada9aa115250fec6f4.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://i.pinimg.com/736x/2d/8f/5c/2d8f5c237882b5ada9aa115250fec6f4.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn-djpne.nitrocdn.com/jleeidVwCPxYFbKKlEkxQQImFEJimhTd/assets/images/optimized/rev-f84ab81/lifelinesneuro.com/wp-content/uploads/2021/10/sans-cybersecurity-awareness-poster.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn-djpne.nitrocdn.com/jleeidVwCPxYFbKKlEkxQQImFEJimhTd/assets/images/optimized/rev-f84ab81/lifelinesneuro.com/wp-content/uploads/2021/10/sans-cybersecurity-awareness-poster.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://cdn-djpne.nitrocdn.com/jleeidVwCPxYFbKKlEkxQQImFEJimhTd/assets/images/optimized/rev-f84ab81/lifelinesneuro.com/wp-content/uploads/2021/10/sans-cybersecurity-awareness-poster.jpg">
 </picture>
 
-For more than 10 years in cyber security i learned to be a cyber security enthousiast.
+**For more than 10 years in cyber security i learned to be a cyber security enthousiast.**
 
-This public part of github will share informations about:
+:point_right:This public part of github will share informations about:
 | Subjects | Description |
 |-----:|-----------|
 |     TryHackMe| Informations to help choose the formation and challenges|
@@ -19,7 +19,7 @@ This public part of github will share informations about:
 
 
 <details>
-<summary>My short resume</summary>
+<summary>:man_technologist:My short resume</summary>
 
 | Year | Description |
 |-----:|-----------|
@@ -44,7 +44,7 @@ This public part of github will share informations about:
 </details>
 
 <details>
-<summary>About me</summary>
+<summary>:white_haired_man:About me</summary>
 
 - born in Brittany in France: breton roots, catalan roots, and many other European roots (like most European people)
 - in love with litterature and philosophy
