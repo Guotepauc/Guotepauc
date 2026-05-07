@@ -1,11 +1,7 @@
 ## Hi i am Frederic, a cybersecurity enthousiast 👋
 This is my public cybersecurity page
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn-djpne.nitrocdn.com/jleeidVwCPxYFbKKlEkxQQImFEJimhTd/assets/images/optimized/rev-f84ab81/lifelinesneuro.com/wp-content/uploads/2021/10/sans-cybersecurity-awareness-poster.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn-djpne.nitrocdn.com/jleeidVwCPxYFbKKlEkxQQImFEJimhTd/assets/images/optimized/rev-f84ab81/lifelinesneuro.com/wp-content/uploads/2021/10/sans-cybersecurity-awareness-poster.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://cdn-djpne.nitrocdn.com/jleeidVwCPxYFbKKlEkxQQImFEJimhTd/assets/images/optimized/rev-f84ab81/lifelinesneuro.com/wp-content/uploads/2021/10/sans-cybersecurity-awareness-poster.jpg">
-</picture>
+First thx rawpixel.com for the nice image i use as logo
 
 **For more than 10 years in cyber security i learned to be a cyber security enthousiast.**
 
