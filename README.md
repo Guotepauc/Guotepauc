@@ -22,8 +22,8 @@
       <h3>📜 Certifications</h3>
       <em>Few of them.</em>
       <ul>
-        <li><a href="./Certifications/EJPT-v2"><b>eJPTv2</b></a> (Active 🟢)</li>
-        <li><a href="./Certifications/PNPT"><b>PNPT</b></a> (In Progress 🟡)</li>
+        <li><a href="./Certifications/AI"><b>AI related</b></a></li>
+        <li><a href="./Certifications/ENGINEER"><b>Security Engineer...</b></a></li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -36,7 +36,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🎮 Hands-on Platforms</h3>
-      <em>Challenge-based & Lab environments.</em>
+      <em>Challenge-based & Lab environments. Includes courses.</em>
       <ul>
         <li><a href="./Platforms/TryHackMe"><b>TryHackMe</b></a></li>
         <li><a href="./Platforms/HackTheBox"><b>HackTheBox</b></a></li>
