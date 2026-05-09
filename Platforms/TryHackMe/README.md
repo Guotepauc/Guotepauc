@@ -33,14 +33,17 @@
 <summary><b>🎯 Penetration Testing & Red Teaming</b></summary>
 
 
-| Path Name | Status | Difficulty | Key Skills |
-| :--- | :---: | :---: | :--- |
-| **Jr Penetration Tester** | 🟢 | 🟢 | `Exploitation` `PrivEsc` `Methodology` |
-| **Web Fundamentals** | 🟢 | 🟢 | `HTTP` `Cookies` `Web Servers` |
-| **Web Application Pentesting** | 🟢 | 🟠 | `OWASP Top 10` `Burp Suite` `SQLi` |
-| **Web Application Red Teaming** | 🟡 | 🔴 | `Advanced Web Attacks` `Exfiltration` |
-| **Red Teaming** | ⚪ | ⚫ | `AD Attack` `Persistence` `Evasion` |
+
+| Path Name | Description |
+| :--- | :--- |
+| [**Jr Penetration Tester**](./Paths/Jr-Pentest.md) | Develops fundamental technical skills for conducting security assessments against web applications and enterprise infrastructure. |
+| [**Web Fundamentals**](./Paths/Web-Fundamentals.md) | Provides a solid foundation in web architecture, industry-standard security tools, and hands-on exploitation of common web vulnerabilities. |
+| [**Web Application Pentesting**](./Paths/Web-App-Pentesting.md) | Focuses on advanced server-side and client-side attacks, including authentication and injection techniques, to master professional web testing. |
+| [**Web Application Red Teaming**](./Paths/Web-App-Red-Teaming.md) | Elevates methodology through advanced exploitation, custom tooling, and vulnerability chaining to demonstrate real-world impact. |
+| [**Red Teaming**](./Paths/Red-Teaming.md) | Teaches adversary emulation in complex environments to challenge defensive capabilities and conduct full-scope offensive engagements. |
+
 </details>
+
 
 <details>
 <summary><b>🛡️ Security Operations (SOC) & DFIR</b></summary>
