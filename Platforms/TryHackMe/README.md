@@ -22,10 +22,11 @@
 <summary><b>🛠️ Security Engineering & DevSecOps</b></summary>
 
 
-| Path Name | Status | Difficulty | Key Skills |
-| :--- | :---: | :---: | :--- |
-| **Security Engineer** | 🟢 | 🟠 | `Network Security` `Identity Management` `System Hardening` |
-| **DevSecOps** | 🟡 | 🟠 | `CI/CD Security` `Container Security` `IaC` |
+| Path Name | Description |
+| :--- | :--- |
+| [**Security Engineer**](./Paths/Security-Engineer.md) | Focuses on designing secure architectures, hardening systems, and mastering risk management and incident response to strengthen organizational security posture. |
+| [**DevSecOps**](./Paths/DevSecOps.md) | Covers securing CI/CD pipelines and implementing security within Infrastructure as Code (IaC) and containerized environments for robust software deployment. |
+
 </details>
 
 <details>
