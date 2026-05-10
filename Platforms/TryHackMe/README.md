@@ -49,12 +49,15 @@
 <summary><b>🛡️ Security Operations (SOC) & DFIR</b></summary>
 
 
-| Path Name | Status | Difficulty | Key Skills |
-| :--- | :---: | :---: | :--- |
-| **SOC Level 1** | 🟢 | 🟢 | `Log Analysis` `SIEM` `Phishing` |
-| **SOC Level 2** | 🟡 | 🟠 | `Advanced Detection` `Analysis Process` |
-| **Advanced Endpoint Investigations** | 🟢 | 🔴 | `Forensics` `Memory Analysis` `EDR` |
+
+| Path Name | Description |
+| :--- | :--- |
+| [**SOC Level 1**](./Paths/SOC-Level-1.md) | Provides the essential technical and operational skills required to triage alerts, analyze logs, and act as the first line of defense in a Security Operations Center. |
+| [**SOC Level 2**](./Paths/SOC-Level-2.md) | Focuses on advanced log analysis, detection engineering, and threat hunting through realistic scenarios to prepare analysts for incident response and malware analysis roles. |
+| [**Advanced Endpoint Investigations**](./Paths/Advanced-Endpoint.md) | Covers deep-dive forensic techniques across Windows, Linux, and macOS, including memory analysis and artifact extraction to lead complex cross-platform investigations. |
+
 </details>
+
 
 ---
 
