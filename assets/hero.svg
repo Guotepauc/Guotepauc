@@ -1,42 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220">
-  <rect width="800" height="220" rx="18" fill="#0d1117"/>
-  <rect x="1" y="1" width="798" height="218" rx="17"
-        fill="none" stroke="#30363d"/>
-
-  <text x="48" y="82"
-        fill="#f0f6fc"
-        font-family="Arial, sans-serif"
-        font-size="34"
-        font-weight="700">
-    FREDERIC CHALIN
-  </text>
-
-  <text x="48" y="122"
-        fill="#a371f7"
-        font-family="Arial, sans-serif"
-        font-size="20"
-        font-weight="600">
-    CYBER THREAT INTELLIGENCE
-  </text>
-
-  <text x="48" y="158"
-        fill="#8b949e"
-        font-family="Arial, sans-serif"
-        font-size="16">
-    Vulnerability Research · AI Security · OSINT
-  </text>
-
-  <circle cx="650" cy="70" r="7" fill="#a371f7"/>
-  <circle cx="710" cy="110" r="6" fill="#58a6ff"/>
-  <circle cx="630" cy="155" r="6" fill="#3fb950"/>
-  <circle cx="740" cy="165" r="5" fill="#f85149"/>
-
-  <line x1="650" y1="70" x2="710" y2="110"
-        stroke="#484f58" stroke-width="2"/>
-  <line x1="650" y1="70" x2="630" y2="155"
-        stroke="#484f58" stroke-width="2"/>
-  <line x1="710" y1="110" x2="740" y2="165"
-        stroke="#484f58" stroke-width="2"/>
-  <line x1="630" y1="155" x2="740" y2="165"
-        stroke="#484f58" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title>Frederic Chalin security research profile</title><desc>Cyber Threat Intelligence, Vulnerability Research, AI Security and OSINT</desc>
+<defs>
+ <linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="0.55" stop-color="#111827"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#a371f7" stop-opacity=".22"/><stop offset="1" stop-color="#a371f7" stop-opacity="0"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="330" rx="24" fill="url(#heroBg)"/>
+<rect x="1" y="1" width="1198" height="328" rx="23" fill="none" stroke="#30363d"/>
+<circle cx="965" cy="160" r="165" fill="url(#halo)"/>
+<text x="70" y="82" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3">SECURITY RESEARCH &amp; LEARNING HUB</text>
+<text x="70" y="144" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="800">FREDERIC CHALIN</text>
+<text x="70" y="192" fill="#a371f7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700">CYBER THREAT INTELLIGENCE</text>
+<text x="70" y="231" fill="#c9d1d9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Vulnerability Research  ·  AI Security  ·  OSINT  ·  Detection &amp; Response</text>
+<line x1="70" y1="267" x2="620" y2="267" stroke="#30363d"/>
+<text x="70" y="296" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1.4">LEARN  /  INVESTIGATE  /  BUILD  /  SHARE</text>
+<g stroke="#484f58" stroke-width="2" fill="none">
+ <path d="M820 82 L952 58 L1072 112 L1030 224 L892 260 L780 190 Z"/>
+ <path d="M820 82 L892 160 L952 58 M892 160 L1072 112 M892 160 L1030 224 M892 160 L780 190 M780 190 L892 260 M1030 224 L892 260"/>
+</g>
+<g filter="url(#glow)">
+ <circle cx="820" cy="82" r="8" fill="#58a6ff"/><circle cx="952" cy="58" r="7" fill="#a371f7"/>
+ <circle cx="1072" cy="112" r="7" fill="#f85149"/><circle cx="1030" cy="224" r="8" fill="#d29922"/>
+ <circle cx="892" cy="260" r="7" fill="#3fb950"/><circle cx="780" cy="190" r="7" fill="#db6d28"/>
+ <circle cx="892" cy="160" r="13" fill="#f0f6fc"/>
+</g>
 </svg>

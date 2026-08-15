@@ -1,1 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-labelledby="title desc">
+<title>OFFENSIVE SECURITY</title><desc>Exploitation · Techniques · Labs · Research</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="760" height="230" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="758" height="228" rx="17" fill="none" stroke="#30363d"/>
+<rect x="0" y="0" width="8" height="230" rx="4" fill="#db6d28"/>
+<text x="42" y="60" fill="#db6d28" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">06</text>
+<text x="42" y="101" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750">OFFENSIVE SECURITY</text>
 
+<text x="42" y="171" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Exploitation · Techniques · Labs · Research</text>
+<g transform="translate(548 60)" fill="none" stroke="#db6d28" stroke-width="3"><rect x="5" y="10" width="120" height="105" rx="10"/><path d="M25 44l22 18-22 18M58 82h35M125 62h37"/><circle cx="178" cy="62" r="22"/><circle cx="178" cy="62" r="7" fill="#db6d28" stroke="none"/></g>
+</svg>

@@ -1,32 +1,15 @@
 <p align="center">
-2
-<img
-3
-src="./assets/hero.svg"
-4
-alt="Frederic Chalin - Cyber Threat Intelligence, Vulnerability Research, AI Security and OSINT"
-5
-width=d">Vulnerabilitya>
-6
-&nbsp;·&nbsp;
-7
-<a href="./AI/README.mdAI &amp; AI Security</a>
-8
-&nbsp;·&nbsp;
-9
-<aOSINT/README.mdOSINT</a>
-10
-&nbsp;·&nbsp;
-11
-./Detection-IR/README.mdDetection &amp; IR</a>
-12
-&nbsp;·&nbsp;
-13
-<a href="./Offensive-Security/README.ve Security</a>
-14
+  <img src="./assets/hero.svg" alt="Frederic Chalin - Cyber Threat Intelligence, Vulnerability Research, AI Security and OSINT" width="100%">
 </p>
-15
 
+<p align="center">
+  <a href="./CTI/README.md">Threat Intelligence</a> ·
+  <a href="./Vulnerability-Research/README.md">Vulnerability Research</a> ·
+  <a href="./AI-Security/README.md">AI &amp; AI Security</a> ·
+  <a href="./OSINT/README.md">OSINT</a> ·
+  <a href="./Detection-IR/README.md">Detection &amp; IR</a> ·
+  <a href="./Offensive-Security/README.md">Offensive Security</a>
+</p>
 
 ## About this repository
 
@@ -34,348 +17,127 @@ I am a cybersecurity practitioner with experience across **Security Operations, 
 
 My current focus sits at the intersection of **Cyber Threat Intelligence, vulnerability research, AI security and OSINT**, with detection engineering and offensive security supporting that work.
 
-This repository is both a **technical learning record** and a **curated security knowledge library**.
+This repository is both a **technical learning record** and a **curated security knowledge library**. I document technical research, courses, certifications, hands-on labs, tools, methodologies and personal projects.
 
-I use it to document:
-
-- technical research and investigations;
-- courses and learning paths;
-- hands-on labs and challenges;
-- certifications and formal education;
-- tools and useful resources;
-- methodologies and technical notes;
-- personal security projects.
-
-The objective is not simply to show what I have completed.
-
-I want to document **what I learned, what I found useful, what I built from it, and enough context to help other security practitioners decide what is worth exploring.**
-
----
+The objective is not simply to list what I have completed. I want to document **what I learned, what I found useful, what I built from it, and enough context to help other practitioners decide what is worth exploring**.
 
 ## Explore the domains
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-./CTI/README.md
-<img src="./assets/domain-cti.svg" width="100%" alt="Cyber Threat ors · Campaigns · TTPs · Intelligence Analysis**
-
+<a href="./CTI/README.md"><img src="./assets/domain-cti.svg" alt="Cyber Threat Intelligence" width="100%"></a>
+<br><br>
 Structured analysis of adversaries, campaigns and behaviours, from raw reporting to actionable intelligence.
-
-My work and learning in this area focus particularly on:
-
-- threat actors and campaign tracking;
-- MITRE ATT&CK mapping;
-- TTP and behavioural analysis;
-- intelligence requirements and analytical methodologies;
-- threat-driven vulnerability intelligence;
-- IOC and IOA analysis;
-- intelligence collection and source evaluation;
-- operational intelligence for SOC and security teams.
-
-./CTI/Learning/ ·
-./CTI/Research/ ·
-./CTI/Knowledge-Base/ ·
-./CTI/Projects/
-
+<br><br>
+<a href="./CTI/README.md"><strong>Explore Threat Intelligence →</strong></a>
 </td>
 <td width="50%" valign="top">
-
-./Vulnerability-Research/README.md
-</assets/domain-vulnerability.svg
-</a>
-
-### Vulnerability Research
-
-**Exploitability · CVEs · Exploitation · Technical Analysis**
-
+<a href="./Vulnerability-Research/README.md"><img src="./assets/domain-vulnerability.svg" alt="Vulnerability Research" width="100%"></a>
+<br><br>
 Understanding vulnerabilities beyond severity scores: exploitation conditions, technical mechanics, public research and real-world threat signals.
-
-This section brings together:
-
-- CVE technical studies;
-- exploitation walkthroughs;
-- vulnerability research;
-- public PoCs and offensive tooling analysis;
-- exploitation prerequisites and attack paths;
-- hands-on vulnerability labs;
-- threat intelligence around active exploitation;
-- vulnerability prioritization methodologies.
-
-A lab, course, researcher write-up or TryHackMe challenge belongs here when the subject is **the vulnerability and its exploitation**, regardless of the platform hosting it.
-
-./Vulnerability-Research/CVE-Studies/ ·
-./Vulnerability-Research/Labs/ ·
-./Vulnerability-Research/Learning/ ·
-./Vulnerability-Research/Projects/
-
+<br><br>
+<a href="./Vulnerability-Research/README.md"><strong>Explore Vulnerability Research →</strong></a>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
-./AI-Security/README.md
-./assets/domain-ai.svg
-</a>
-
-### AI & AI Security
-
-**LLMs · RAG · Agents · Adversarial AI**
-
-Learning how modern AI systems work, how they are integrated into real environments, and how emerging architectures create new security assumptions and attack surfaces.
-
-Topics include:
-
-- Large Language Models;
-- RAG architectures;
-- embeddings and vector search;
-- AI agents and tool use;
-- Azure AI and cloud AI architectures;
-- prompt injection and indirect prompt injection;
-- AI data exposure and trust boundaries;
-- AI supply-chain risks;
-- adversarial AI;
-- MITRE ATLAS;
-- secure AI architecture;
-- AI-assisted security operations and CTI.
-
-./AI-Security/Learning/ ·
-./AI-Security/Security/ ·
-./AI-Security/Labs/ ·
-./AI-Security/Projects/
-
+<a href="./AI-Security/README.md"><img src="./assets/domain-ai.svg" alt="AI and AI Security" width="100%"></a>
+<br><br>
+Learning how modern AI systems work, how they are integrated, and how new architectures create new security assumptions and attack surfaces.
+<br><br>
+<a href="./AI-Security/README.md"><strong>Explore AI &amp; AI Security →</strong></a>
 </td>
 <td width="50%" valign="top">
-
-./OSINT/README.md
-./assets/domain-osint.svg
-</a>
-
-### Open-Source Intelligence
-
-**Discovery · Investigation · SOCMINT · Tooling**
-
-Investigation methodologies, source discovery, practical tooling and repeatable workflows for collecting and validating publicly available intelligence.
-
-This section covers areas such as:
-
-- investigation methodologies;
-- advanced search and discovery;
-- SOCMINT;
-- infrastructure research;
-- domain and certificate intelligence;
-- corporate intelligence;
-- threat infrastructure discovery;
-- dark-web related research;
-- OSINT automation;
-- investigation tools and their practical use.
-
-The objective is not to maintain another giant list of OSINT tools. I want to document **where a tool fits, what problem it solves and when I found it useful**.
-
-./OSINT/Methodologies/ ·
-./OSINT/Tools/ ·
-./OSINT/Learning/ ·
-./OSINT/Investigations/
-
+<a href="./OSINT/README.md"><img src="./assets/domain-osint.svg" alt="Open-Source Intelligence" width="100%"></a>
+<br><br>
+Investigation methodologies, source discovery, practical tooling and repeatable workflows for collecting and validating public intelligence.
+<br><br>
+<a href="./OSINT/README.md"><strong>Explore OSINT →</strong></a>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
-./Detection-IR/README.md
-./assets/domain-detection.svg
-</a>
-
-### Detection & Incident Response
-
-**Detection · Threat Hunting · Triage · Response**
-
+<a href="./Detection-IR/README.md"><img src="./assets/domain-detection.svg" alt="Detection and Incident Response" width="100%"></a>
+<br><br>
 Translating adversary behaviours and threat intelligence into detection opportunities, investigations and operational response.
-
-Areas documented here include:
-
-- detection engineering;
-- threat hunting;
-- incident triage;
-- investigative workflows;
-- telemetry and visibility;
-- SIEM and XDR;
-- KQL and detection logic;
-- behavioural detection;
-- containment and response;
-- CTI-to-detection workflows.
-
-./Detection-IR/Detection/ ·
-./Detection-IR/Hunting/ ·
-./Detection-IR/Labs/ ·
-./Detection-IR/Resources/
-
+<br><br>
+<a href="./Detection-IR/README.md"><strong>Explore Detection &amp; IR →</strong></a>
 </td>
 <td width="50%" valign="top">
-
-./Offensive-Security/README.md
-./assets/domain-offensive.svg
-</a>
-
-### Offensive Security
-
-**Exploitation · Adversary Techniques · Labs · Research**
-
+<a href="./Offensive-Security/README.md"><img src="./assets/domain-offensive.svg" alt="Offensive Security" width="100%"></a>
+<br><br>
 Hands-on exploration of attack techniques to better understand exploitability, adversary tradecraft and defensive opportunities.
-
-This includes:
-
-- exploitation techniques;
-- privilege escalation;
-- attack chains;
-- adversary techniques;
-- hands-on labs;
-- controlled security challenges;
-- offensive tooling;
-- technical research supporting defensive understanding.
-
-Platforms such as TryHackMe and Hack The Box are treated as **learning sources rather than knowledge domains**. Content is classified according to the subject being learned.
-
-./Offensive-Security/Exploitation/ ·
-./Offensive-Security/Labs/ ·
-./Offensive-Security/Techniques/ ·
-./Offensive-Security/Learning/
-
+<br><br>
+<a href="./Offensive-Security/README.md"><strong>Explore Offensive Security →</strong></a>
 </td>
 </tr>
 </table>
 
----
-
-## Selected Research & Projects
-
-These projects connect several of the domains above. They are where research, intelligence, engineering and hands-on learning become practical capabilities.
+## Selected research & projects
 
 ### CTI-Driven Vulnerability Prioritization
 
 > **From vulnerability severity to exploitation intelligence.**
 
-A methodology and tooling project exploring how vulnerability prioritization can move beyond CVSS by combining technical exploitability, public PoCs, weaponization, exploitation evidence and threat relevance.
+A methodology and tooling project exploring how prioritization can move beyond CVSS by combining technical exploitability, public PoCs, weaponization, exploitation evidence and threat relevance.
 
-The objective is to answer a more useful question than *"How severe is this vulnerability?"*:
+The objective is to answer a more useful question than *“How severe is this vulnerability?”*:
 
 **Why does this vulnerability matter now?**
 
-`Threat Intelligence` `Vulnerability Research` `Automation`
-
-./Projects/Vulnerability-Prioritization/
-
+<a href="./Projects/Vulnerability-Prioritization/"><strong>Explore the project →</strong></a>
 
 ### Threat Intelligence Knowledge Base
 
 > **From isolated reports to reusable intelligence.**
 
-A structured knowledge base for organizing threat actors, campaigns, TTPs and behavioural intelligence with MITRE ATT&CK mappings.
+A structured knowledge base for organizing threat actors, campaigns, TTPs and behavioural intelligence with MITRE ATT&amp;CK mappings.
 
-The goal is to make intelligence reusable across analysis, detection, incident response and offensive validation rather than leaving knowledge trapped inside individual reports.
-
-`CTI` `MITRE ATT&CK` `Detection`
-
-./Projects/CTI-Knowledge-Base/
-
+<a href="./Projects/CTI-Knowledge-Base/"><strong>Explore the knowledge base →</strong></a>
 
 ### AI-Assisted Cyber Threat Intelligence
 
-> **Exploring where AI genuinely helps intelligence analysis, and where human validation remains essential.**
+> **Exploring where AI helps intelligence analysis, and where human validation remains essential.**
 
-Experiments around LLMs, retrieval-augmented generation and agents applied to Cyber Threat Intelligence workflows, with particular attention to source provenance, grounding, validation, data exposure and human oversight.
+Experiments around LLMs, retrieval-augmented generation and agents applied to CTI workflows, with attention to source provenance, grounding, validation, data exposure and human oversight.
 
-Areas of exploration include:
+<a href="./Projects/AI-Assisted-CTI/"><strong>Explore the project →</strong></a>
 
-- intelligence retrieval;
-- structured extraction;
-- CVE, TTP and IOC extraction;
-- ATT&CK mapping;
-- source-aware summarization;
-- intelligence knowledge retrieval;
-- analyst assistance;
-- secure agent architectures.
+## Learning library
 
-`AI Security` `CTI` `RAG`
+Cybersecurity learning is distributed across courses, labs, documentation, certifications, research papers and hands-on platforms.
 
-./Projects/AI-Assisted-CTI/
+Resources are organized by **subject**, not by provider. A TryHackMe AI module can therefore live under **AI &amp; AI Security**, while an exploitation challenge can live under **Vulnerability Research** or **Offensive Security**.
 
----
+Each detailed resource note can use four simple indicators:
 
-## Learning Library
+- **Time**: short, medium, long, or an approximate duration
+- **Difficulty**: introductory, intermediate or advanced
+- **Hands-on**: low, medium or high
+- **Verdict**: recommended, situational or reference
 
-Cybersecurity learning is distributed across courses, labs, vendor training, research papers, documentation, certifications and hands-on platforms.
+I do not use arbitrary numerical scores. The review explains the resource's scope, prerequisites, strengths, limitations and intended audience.
 
-Rather than maintaining a simple list of things I have completed, I use this library to document **what a resource actually contains and how useful it may be to someone considering it**.
-
-Resources are organized by **subject**, not by provider.
-
-A TryHackMe AI module may therefore live under **AI & AI Security**, while a TryHackMe exploitation challenge may live under **Vulnerability Research** or **Offensive Security**.
-
-### Resource notes include
-
-**TIME**  
-The realistic learning commitment: short, medium, long or an approximate duration when useful.
-
-**DIFFICULTY**  
-Introductory, intermediate or advanced.
-
-**HANDS-ON**  
-How much of the material involves practical work rather than passive theory.
-
-**VERDICT**  
-My personal conclusion after studying the resource, for example *Recommended*, *Situational* or *Reference*.
-
-I do not assign arbitrary numerical scores. The detailed review explains the strengths, limitations, prerequisites and intended audience.
-
----
-
-### Featured Learning
+### Featured learning
 
 #### Mastering Azure OpenAI: From Zero to Hero
 
 `AI` `Azure` `Generative AI` `RAG`
 
-**TIME** `Long` &nbsp;&nbsp;
-**DIFFICULTY** `Intermediate` &nbsp;&nbsp;
-**HANDS-ON** `High` &nbsp;&nbsp;
-**VERDICT** `Detailed review in progress`
+**Time:** Long · **Difficulty:** Intermediate · **Hands-on:** High · **Verdict:** Review in progress
 
-A substantial Azure AI learning resource that I am documenting module by module.
+A substantial Azure AI learning resource that I am documenting module by module. The detailed breakdown will explain what it teaches, the prerequisites, practical exercises, strengths, limitations and the type of learner most likely to benefit from it.
 
-The detailed breakdown will focus on what the course actually teaches, prerequisites, practical exercises, important concepts, its strengths and limitations, and the type of learner who is likely to benefit from it.
+<a href="./AI-Security/Learning/Mastering-Azure-OpenAI/"><strong>Read the course breakdown →</strong></a>
 
-[Read the course breakdown →](./AI-SecurityAI/
+## Certifications & formal education
 
+Certifications are part of the learning journey, but they are not the centre of this repository. I prefer to show how knowledge is **understood, applied and extended through research, labs and projects**.
 
-### Browse the Learning Library
+<a href="./Certifications/README.md"><strong>View certifications and formal learning →</strong></a>
 
-| Domain | Courses & Resources | Labs | Certifications |
-|:---|:---:|:---:|:---:|
-| **Cyber Threat Intelligence** | [Explore](./CTI/Learning/) |/ | ./Certifications/CTI/ |
-| **Vulnerability Research** | [Explore](./Vulnerability-Research/Learning/) | [Labs](./Vulnerability-Researchcations/Vulnerability/ |
-| **AI & AI Security** | [Explore](./AI-Security/Learning/) | [Labs](./AI-Security/Labs/) | [ |
-| **OSINT** | [Explore](./OSINT/LearningT/Labs/ | ./Certifications/OSINT/ |
-| **Detection & IR** | [Explore](./Detection-IR/Resources/) | [Labs](./Detection-IR/Labs/) | [Credentials**Offensive Security** | [Explore](./Offensive-Security/Learning/) | [Labs](./Offensive-Security/Labs/) | [Credentials](./Certifications//
-
----
-
-## Certifications & Formal Education
-
-Certifications are part of the learning journey, but they are not the centre of this repository.
-
-I prefer to show how knowledge is **understood, applied and extended through research, labs and projects**.
-
-My certifications and formal training are therefore organized according to the domains they support.
-
-./Certifications/
-
----
-
-## A Non-Linear Path into Cybersecurity
+## A non-linear path into cybersecurity
 
 My route into cybersecurity has not been conventional.
 
@@ -383,54 +145,38 @@ It started with **mathematics and physics**, followed by quantum mechanics, scie
 
 My security work has since crossed **SOC operations, incident response, governance, vulnerability management and Cyber Threat Intelligence**.
 
-That background still influences how I approach cybersecurity:
-
 > **Understand how a system works. Understand how it fails. Then understand how an adversary can use that failure.**
 
 Today, I am particularly interested in the intersection between **threat intelligence, vulnerability research and AI security**, with OSINT, detection engineering and offensive techniques supporting that work.
 
-./About/Career-Journey.md
+<a href="./About/Career-Journey.md"><strong>Read the full journey →</strong></a>
 
----
-
-## Technical Ecosystem
-
-I work with different technologies depending on the problem being investigated. This is not intended as an exhaustive "skills badge" collection.
+## Technical ecosystem
 
 **Threat Intelligence**  
-MITRE ATT&CK · STIX/TAXII · MISP · OpenCTI
+MITRE ATT&amp;CK · STIX/TAXII · MISP · OpenCTI
 
-**Detection & Response**  
+**Detection &amp; Response**  
 Microsoft Sentinel · Microsoft Defender XDR · KQL · Splunk
 
-**AI & Data**  
+**AI &amp; Data**  
 LLMs · RAG · Azure AI · Vector Search · AI Agents
 
-**Engineering & Automation**  
+**Engineering &amp; Automation**  
 Python · APIs · GitHub · GitHub Actions · JSON
 
 **Security Research**  
 CVE research · Exploit analysis · OSINT · Detection engineering
 
----
-
-## Beyond Security
+## Beyond security
 
 Literature · Philosophy · Geopolitics · Journalism · Science
 
 **Curiosity is still the common thread.**
 
----
-
-<div align="center">
-
-### Connect
-
-https://linkedin.com/in/frédéric-chalin-28707247 ·
-[GitHub](https://github.com/Guotepauc)
-
-<br>
-
-<sub>Research · Learn · Build · Share</sub>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/frédéric-chalin-28707247">LinkedIn</a> ·
+  <a href="https://github.com/Guotepauc">GitHub</a>
+  <br><br>
+  <sub>Research · Learn · Build · Share</sub>
+</p>
