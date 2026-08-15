@@ -1,11 +1,31 @@
-<div align="center">
-
-<img src="./assets/hero.svgyber-threat-intelligence ·
-[Vulnerability Research](#vulnerability-research) ·
-[AI & AI elligence ·
-[Detection & IR](#detection--incident-responseurity
-
-</div>
+<p align="center">
+2
+<img
+3
+src="./assets/hero.svg"
+4
+alt="Frederic Chalin - Cyber Threat Intelligence, Vulnerability Research, AI Security and OSINT"
+5
+width=d">Vulnerabilitya>
+6
+&nbsp;·&nbsp;
+7
+<a href="./AI/README.mdAI &amp; AI Security</a>
+8
+&nbsp;·&nbsp;
+9
+<aOSINT/README.mdOSINT</a>
+10
+&nbsp;·&nbsp;
+11
+./Detection-IR/README.mdDetection &amp; IR</a>
+12
+&nbsp;·&nbsp;
+13
+<a href="./Offensive-Security/README.ve Security</a>
+14
+</p>
+15
 
 
 ## About this repository
