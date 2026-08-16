@@ -53,8 +53,6 @@ My route into cybersecurity has not been conventional. It started with **mathema
 
 My security work has since crossed **SOC operations, incident response, governance, vulnerability management and Cyber Threat Intelligence**.
 
-> **Understand how a system works. Understand how it fails. Then understand how an adversary can use that failure.**
-
 <p align="center"><a href="./About/Career-Journey.md"><strong>Read the full career journey →</strong></a></p>
 
 ## Beyond cybersecurity
