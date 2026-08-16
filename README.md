@@ -49,7 +49,7 @@ Certifications support the domains documented above, but they are not presented 
 
 ## A non-linear path into cybersecurity
 
-My route into cybersecurity has not been conventional. It started with **mathematics and physics**, followed by quantum mechanics, scientific research and telecommunications. From there, I moved into software development, cryptography, consulting and eventually cybersecurity.
+My route into cybersecurity has not been conventional. It started with **mathematics then theoritical physics**, scientific research (Mesoscopic physics = Quantum mechanics) and telecommunications. From there, I moved into software development, cryptography, consulting and eventually cybersecurity (formation in University of Toulouse).
 
 My security work has since crossed **SOC operations, incident response, governance, vulnerability management and Cyber Threat Intelligence**.
 
