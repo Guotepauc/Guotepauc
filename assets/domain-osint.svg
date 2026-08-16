@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-labelledby="title desc">
-<title>OPEN-SOURCE INTELLIGENCE</title><desc>Discovery · Investigation · SOCMINT · Tooling</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<rect width="760" height="230" rx="18" fill="url(#bg)"/>
-<rect x="1" y="1" width="758" height="228" rx="17" fill="none" stroke="#30363d"/>
-<rect x="0" y="0" width="8" height="230" rx="4" fill="#3fb950"/>
-<text x="42" y="60" fill="#3fb950" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">04</text>
-<text x="42" y="101" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750">OPEN-SOURCE</text>
-<text x="42" y="133" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750">INTELLIGENCE</text>
-<text x="42" y="171" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Discovery · Investigation · SOCMINT · Tooling</text>
-<g transform="translate(560 43)" fill="none" stroke="#3fb950" stroke-width="3"><circle cx="88" cy="88" r="70"/><circle cx="88" cy="88" r="42" stroke="#30363d"/><path d="M88 88L143 43M88 88L46 130"/><path d="M88 18A70 70 0 0 1 158 88" stroke-width="7"/><g fill="#3fb950" stroke="none"><circle cx="143" cy="43" r="7"/><circle cx="46" cy="130" r="7"/><circle cx="88" cy="88" r="8"/></g></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230"><defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient></defs><rect width="760" height="230" rx="18" fill="url(#b)"/><rect x="1" y="1" width="758" height="228" rx="17" fill="none" stroke="#30363d"/><rect width="8" height="230" rx="4" fill="#3fb950"/><text x="42" y="58" fill="#3fb950" font-family="Segoe UI,Arial" font-size="13" font-weight="700" letter-spacing="2">04</text><text x="42" y="101" fill="#f0f6fc" font-family="Segoe UI,Arial" font-size="27" font-weight="700">OPEN-SOURCE</text><text x="42" y="133" fill="#f0f6fc" font-family="Segoe UI,Arial" font-size="27" font-weight="700">INTELLIGENCE</text><text x="42" y="174" fill="#8b949e" font-family="Segoe UI,Arial" font-size="15">Discovery · Investigation · SOCMINT · Tooling</text><g transform="translate(560 43)" fill="none" stroke="#3fb950" stroke-width="3"><circle cx="88" cy="88" r="70"/><circle cx="88" cy="88" r="42" stroke="#30363d"/><path d="M88 88l55-45M88 88l-42 42M88 18a70 70 0 0 1 70 70" stroke-width="5"/><g fill="#3fb950" stroke="none"><circle cx="143" cy="43" r="7"/><circle cx="46" cy="130" r="7"/><circle cx="88" cy="88" r="8"/></g></g></svg>

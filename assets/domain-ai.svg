@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-labelledby="title desc">
-<title>AI &amp; AI SECURITY</title><desc>LLMs · RAG · Agents · Adversarial AI</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<rect width="760" height="230" rx="18" fill="url(#bg)"/>
-<rect x="1" y="1" width="758" height="228" rx="17" fill="none" stroke="#30363d"/>
-<rect x="0" y="0" width="8" height="230" rx="4" fill="#58a6ff"/>
-<text x="42" y="60" fill="#58a6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">03</text>
-<text x="42" y="101" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750">AI &amp; AI SECURITY</text>
-
-<text x="42" y="171" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">LLMs · RAG · Agents · Adversarial AI</text>
-<g transform="translate(565 48)" stroke="#58a6ff" stroke-width="3" fill="none"><rect x="8" y="70" width="150" height="70" rx="12" stroke="#30363d"/><path d="M38 30L84 58l48-32M84 58v90M38 30l0 74M132 26v78"/><g fill="#58a6ff" stroke="none"><circle cx="38" cy="30" r="7"/><circle cx="84" cy="58" r="8"/><circle cx="132" cy="26" r="7"/><circle cx="38" cy="104" r="7"/><circle cx="84" cy="148" r="7"/><circle cx="132" cy="104" r="7"/></g></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230"><defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient></defs><rect width="760" height="230" rx="18" fill="url(#b)"/><rect x="1" y="1" width="758" height="228" rx="17" fill="none" stroke="#30363d"/><rect width="8" height="230" rx="4" fill="#58a6ff"/><text x="42" y="58" fill="#58a6ff" font-family="Segoe UI,Arial" font-size="13" font-weight="700" letter-spacing="2">03</text><text x="42" y="101" fill="#f0f6fc" font-family="Segoe UI,Arial" font-size="27" font-weight="700">AI &amp; AI SECURITY</text><text x="42" y="174" fill="#8b949e" font-family="Segoe UI,Arial" font-size="15">LLMs · RAG · Agents · Adversarial AI</text><g transform="translate(565 48)" stroke="#58a6ff" stroke-width="3" fill="none"><rect x="8" y="70" width="150" height="70" rx="12" stroke="#30363d"/><path d="M38 30L84 58l48-32M84 58v90M38 30v74M132 26v78"/><g fill="#58a6ff" stroke="none"><circle cx="38" cy="30" r="7"/><circle cx="84" cy="58" r="8"/><circle cx="132" cy="26" r="7"/><circle cx="38" cy="104" r="7"/><circle cx="84" cy="148" r="7"/><circle cx="132" cy="104" r="7"/></g></g></svg>
