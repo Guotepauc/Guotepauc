@@ -1,36 +1,29 @@
 # 🧠 Courses & Learning
 
-Completed training and concise course reviews across Cyber Threat
-Intelligence, OSINT, AI Security, Vulnerability Intelligence,
-Cloud Security, and Offensive Security.
+Completed training and concise reviews across Cyber Threat Intelligence,
+OSINT, AI Security, Vulnerability Intelligence, Cloud Security, and
+Offensive Security.
 
-The reviews reflect my own experience, professional background, and
-starting level. They summarize what each course covers, what I found
-useful, its limitations, and the audience that may benefit most from it.
+The reviews reflect my professional background and starting level. They
+summarize what each course covers, what I found useful, its limitations,
+and the audience that may benefit from it.
 
 ---
 
 ## 🎯 Cyber Threat Intelligence
 
 <a id="cyber-threat-intelligence"></a>
-<a id="cyber-threat-intelligence-christopher-nett"></a>
 
-<table>
-  <tr>
-    <td width="74" align="center">
-      ../assets/courses/cyber-threat-intelligence.svg
-    </td>
-    <td>
-      <strong>Cyber Threat Intelligence</strong><br/>
-      Christopher Nett · Udemy<br/>
-      <sub>Completed · 2026</sub>
-    </td>
-  </tr>
-</table>
+../assets/courses/cyber-threat-intelligence.svg
 
-https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-2563eb
-https://img.shields.io/badge/Focus-CTI%20Foundations-0f766e
-https://img.shields.io/badge/Status-Completed-15803d
+### Cyber Threat Intelligence
+
+**Christopher Nett · Udemy · Completed in 2026**
+
+<br clear="left"/>
+
+![Level: Beginner to Intermediate](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-2563eb)
+![Focus: CTI Foundations](https://img.shields.io/badge/Focus-CTI%eted-15803d
 
 ### Summary
 
