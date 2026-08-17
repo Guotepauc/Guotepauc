@@ -94,4 +94,4 @@ It should be complemented by deeper learning in:
 
 ---
 
-../README.md
+[← Back to the
