@@ -1,3 +1,13 @@
+# Learning & Resources
+
+Courses, labs, documentation, research papers, certifications, and practical
+resources across my cybersecurity learning domains.
+
+Resources are documented to show what they actually cover, what I found useful,
+their limitations, and the audience most likely to benefit.
+
+---
+
 <a id="cyber-threat-intelligence-learning"></a>
 
 ## Cyber Threat Intelligence
@@ -7,13 +17,15 @@
 <p align="center">
   <img
     src="../assets/course-review-cti.svg"
-    alt="Cyber Threat oduction to Cyber Threat Intelligence,
-covering the relationship between CTI and SOC operations, MITRE ATT&CK,
-threat actors, intelligence platforms, Microsoft Sentinel, and the
-foundations of a CTI program.
+    alt="Cyber Threat Intelligence course review"
+    width="100%">
+</p>
+
+A clear and well-organized introductiont actors, intelligence platforms,
+Microsoft Sentinel, and the foundations of a CTI program.
 
 **Best suited for:** beginners and SOC analysts moving toward CTI.  
-**My verdict:** a useful structured overview, but too introductory and
+**My verdict:** useful as a structured overview, but too introductory and
 Microsoft-oriented for experienced CTI practitioners.
 
 <details>
@@ -25,23 +37,23 @@ Microsoft-oriented for experienced CTI practitioners.
 
 The course covers:
 
-- SOC fundamentals;
-- Microsoft Azure fundamentals;
-- Zero Trust fundamentals;
-- intelligence and Cyber Threat Intelligence;
-- CTI-related frameworks;
-- MITRE ATT&CK;
-- threat actors and Advanced Persistent Threats;
-- CTI tools and platforms;
-- Artificial Intelligence applied to CTI;
-- MISP deployment on Microsoft Azure;
-- APT41 research using MITRE ATT&CK;
-- CTI integration with Microsoft Sentinel;
-- fundamental considerations for building a CTI program.
+- SOC fundamentals
+- Microsoft Azure fundamentals
+- Zero Trust fundamentals
+- Intelligence and Cyber Threat Intelligence
+- CTI-related frameworks
+- MITRE ATT&CK
+- Threat actors and Advanced Persistent Threats
+- CTI tools and platforms
+- Artificial Intelligence applied to CTI
+- MISP deployment on Microsoft Azure
+- APT41 research using MITRE ATT&CK
+- CTI integration with Microsoft Sentinel
+- Fundamental considerations for building a CTI program
 
 ### What I found useful
 
-- Clear and logical progression across the principal CTI concepts
+- Clear progression across the principal CTI concepts
 - Good introduction to the relationship between CTI and SOC operations
 - Accessible overview of MITRE ATT&CK
 - Useful Microsoft Sentinel and Azure examples
@@ -66,19 +78,20 @@ professionals working in the Microsoft ecosystem.**
 For an experienced analyst, the course is better used as a refresher and
 curriculum overview than as advanced CTI training.
 
-The course should be complemented by deeper learning in:
+It should be complemented by deeper learning in:
 
-- Priority Intelligence Requirements;
-- collection planning;
-- source reliability and information credibility;
-- structured analytical techniques;
-- analytical confidence;
-- OSINT investigation;
-- threat actor clustering and attribution;
-- vulnerability intelligence;
-- CTI automation.
+- Priority Intelligence Requirements
+- Collection planning
+- Source reliability and information credibility
+- Structured analytical techniques
+- Analytical confidence
+- OSINT investigation
+- Threat actor clustering and attribution
+- Vulnerability intelligence
+- CTI automation
 
 </details>
 
-<br>
+---
 
+../README.md
