@@ -25,71 +25,72 @@ The strongest value is its **breadth and practical exposure**: the curriculum co
 
 ## What the course covers
 
-### 1. Azure OpenAI foundations and model interaction
+<details open>
+<summary><strong>Azure OpenAI foundations, APIs and Generative AI</strong></summary>
 
-The opening modules establish the Azure OpenAI resource model and basic operational precautions before moving into the Chat Playground, model interaction, DALL·E and private-data chatbot scenarios. Prompt engineering, tokens, temperature and the Chat Completions API provide the first technical foundation, followed by a practical API lab.
+The opening modules establish the Azure OpenAI resource model and basic operational precautions before moving into the Chat Playground, model interaction, DALL·E and private-data chatbot scenarios.
 
-### 2. Generative AI concepts and function calling
+Prompt engineering, tokens, temperature and the Chat Completions API provide the first technical foundation. The course also distinguishes Azure OpenAI from OpenAI and explores Generative AI, Predictive AI, chatbots, LLMs and LAMs.
 
-The course distinguishes Azure OpenAI from OpenAI and explores generative AI, chatbots, predictive AI, LLMs and LAMs. Function calling is introduced through practical exercises, including external functions, keyword analysis, coding assistance and text summarization.
+Function calling is introduced through practical exercises involving external functions, keyword analysis, coding assistance and text summarization.
 
-### 3. Speech, multimodal models and video generation
+</details>
 
-Whisper and Azure AI Speech are used for speech-related labs. GPT-4 and GPT-4o modules cover API calls, image description and image analysis, including integration with Azure Vision. Sora is introduced through both the video playground and a Python calling example.
+<details>
+<summary><strong>Multimodal AI, speech and video</strong></summary>
 
-### 4. RAG, embeddings and Azure AI Search
+Whisper and Azure AI Speech are used for speech-related labs.
 
-The RAG section covers embeddings, Azure AI Search, hybrid vector and keyword retrieval, a Python RAG implementation and document processing via Form Recognizer. This is one of the most directly reusable parts for enterprise knowledge assistants and source-grounded applications.
+GPT-4 and GPT-4o modules cover API calls, image description and image analysis, including integration with Azure Vision.
 
-### 5. Semantic Kernel and orchestration
+Sora is introduced through the video playground and a Python calling example.
 
-Semantic Kernel is presented through kernels, prompt-template plugins, native plugins and planners. Parallel Python and C# labs provide hands-on exposure, followed by Web Search and Microsoft Graph plugin scenarios.
+</details>
 
-### 6. Full-stack Copilot application
+<details open>
+<summary><strong>RAG, Azure AI Search and Semantic Kernel</strong></summary>
 
-A dedicated project connects front-end and back-end components with Azure infrastructure, Bing, Azure AI Search, Azure Functions and Microsoft Graph. The project also walks through the main API endpoints and plugin code, making the architecture more concrete than isolated playground exercises.
+The RAG section covers embeddings, Azure AI Search, hybrid vector and keyword retrieval, a Python RAG implementation and document processing through Form Recognizer.
 
-### 7. Azure AI Foundry, agents and assistants
+Semantic Kernel is presented through kernels, prompt-template plugins, native plugins and planners.
 
-The course introduces Azure AI Foundry and Azure AI Agent Service through a hands-on lab. The assistants section covers assistant definitions, threads, runs, tools, code interpretation and function-based tools, with practical Code Interpreter and Functions labs.
+Parallel Python and C# labs provide practical exposure, followed by Web Search and Microsoft Graph plugin scenarios.
 
-### 8. Predictive AI services
+</details>
 
-The predictive AI block is extensive. It covers text analysis, language detection in containers, translation, NLU, question answering, speech, computer vision, OCR, image classification, Face API, Document Intelligence, Azure AI Search and custom skillsets. Several case studies are included alongside labs.
+<details>
+<summary><strong>Applications, agents, Predictive AI, security and operations</strong></summary>
 
-### 9. Responsible AI, security and operations
+A full-stack Copilot project connects front-end and back-end components with Azure infrastructure, Bing, Azure AI Search, Azure Functions and Microsoft Graph.
 
-The final sections address responsible AI and Azure Content Safety, followed by service endpoints, private endpoints, RBAC, MFA and Azure Key Vault. Operational topics include alerts, metrics, cost estimation and cost analysis.
+Azure AI Foundry, Azure AI Agent Service and OpenAI Assistants introduce tools, Code Interpreter, functions, threads and runs.
 
-## Why this course is useful
+The Predictive AI modules cover text analysis, language detection, translation, NLU, question answering, speech, computer vision, OCR, image classification, Face API, Document Intelligence, Azure AI Search and custom skillsets.
 
-- It offers a **single learning path across many Azure AI services**, reducing the fragmentation learners often face when moving between product documentation.
-- It includes substantial practical content rather than remaining at the conceptual level.
-- It connects Generative AI and Predictive AI instead of treating them as unrelated worlds.
-- It covers application architecture and orchestration through Semantic Kernel and the full-stack Copilot project.
-- It includes security, responsible AI, monitoring and cost topics, which are often omitted from introductory GenAI courses.
+The final sections address Responsible AI, Azure Content Safety, service endpoints, private endpoints, RBAC, MFA, Azure Key Vault, alerts, metrics and cost management.
 
-## Limitations and points to keep in mind
+</details>
 
-- The scope is very broad, so completing the course does not by itself provide deep mastery of every service covered.
-- Azure AI interfaces and preview services evolve quickly. Screens, product names and API behaviour should be validated against current Microsoft documentation when reproducing a lab.
-- Several sections introduce services that warrant separate deep dives, particularly RAG quality, AI Search design, agent security, identity, networking, evaluation and production governance.
-- The course is focused on **Microsoft Azure OpenAI and Azure AI services**, not on operating open-source models locally.
+## Practical assessment
 
-## Who should take it
+<details>
+<summary><strong>Why I found the course valuable</strong></summary>
 
-**Good fit for:**
+- Broad coverage of the Azure AI ecosystem in one structured path.
+- Strong practical exposure through API, Python, C#, search, orchestration and cloud-service labs.
+- Useful connection between Generative AI, Predictive AI, application architecture, security and operations.
+- A substantial foundation for deciding which topics deserve deeper study or personal projects.
 
-- security and cloud professionals seeking a broad Azure AI foundation;
-- developers who want hands-on exposure to Azure OpenAI, RAG, Semantic Kernel and AI services;
-- architects who need a practical map of the Microsoft AI ecosystem before specializing;
-- CTI, SOC or automation practitioners exploring AI-assisted workflows.
+</details>
 
-**Less suitable for:**
+<details>
+<summary><strong>Points to keep in mind</strong></summary>
 
-- learners looking exclusively for open-source or local LLM deployment;
-- experienced specialists seeking an advanced deep dive into only one topic;
-- learners who want a theory-only course without Azure subscription work or coding labs.
+- The course is long and intentionally broad. Some topics are introductions rather than advanced specialist training.
+- Azure AI interfaces, preview features and service names evolve quickly, so current Microsoft documentation remains important when reproducing labs.
+- The course focuses on Microsoft Azure AI services rather than local or open-source model deployment.
+
+</details>
 
 ## Curriculum
 
@@ -339,33 +340,3 @@ The supplied course outline contains **21 sections and 138 listed lessons**, inc
 
 </details>
 
-
-## LinkedIn completion post
-
-### Option 1 · Professional and concise
-
-I have completed **Mastering Azure OpenAI from Zero to Hero**, a 21.5-hour Udemy course by **Kuljot Singh Bakshi**.
-
-The course provided a broad, hands-on journey through the Microsoft Azure AI ecosystem, including Azure OpenAI, prompt engineering, Chat Completions, function calling, GPT-4/4o, multimodal AI, RAG with Azure AI Search, Semantic Kernel, Azure AI Foundry, agents, predictive AI services, responsible AI, security and cost monitoring.
-
-A particularly valuable aspect was connecting the different services through practical labs and a full-stack Copilot project rather than studying each component in isolation.
-
-My next step is to turn selected concepts into focused projects, particularly around secure RAG, AI-assisted Cyber Threat Intelligence and agent security.
-
-#AzureAI #AzureOpenAI #GenerativeAI #RAG #SemanticKernel #AISecurity #CyberThreatIntelligence
-
-### Option 2 · Learning-focused and more personal
-
-Completed **Mastering Azure OpenAI from Zero to Hero** by **Kuljot Singh Bakshi** on Udemy.
-
-What I appreciated most was the breadth of the learning path: it starts with Azure OpenAI fundamentals and APIs, then moves through multimodal models, RAG and Azure AI Search, Semantic Kernel, Azure AI Foundry and agents, before covering predictive AI, responsible AI, security and operations.
-
-The course reinforced an important point for me: building useful AI systems is not only about the model. Retrieval, orchestration, identity, networking, monitoring, costs and human validation all matter.
-
-I have documented the complete curriculum and my assessment on GitHub to help others decide whether the course fits their learning objectives.
-
-#MicrosoftAzure #AzureOpenAI #AIEngineering #RAG #AISecurity #ContinuousLearning
-
-## Source and attribution
-
-This page is an independent learning review based on my completion notes and the supplied Udemy course description. Course titles and curriculum names are retained for identification and commentary. The explanatory text and assessment are my own.
