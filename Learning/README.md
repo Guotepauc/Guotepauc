@@ -1,61 +1,85 @@
----
+<a id="cyber-threat-intelligence-learning"></a>
 
-<a id="cti-courses"></a>
+## Cyber Threat Intelligence
 
-## 🎯 Cyber Threat Intelligence
+<a id="christopher-nett-cyber-threat-intelligence"></a>
 
-<table>
-<tr>
-<td width="58" align="center" valign="top">
-  <img src="../assets/course-cti.svg"
-       alt="Cyber Threat Intelligence course"nce</strong><br>
-  Christopher Nett · Udemy<br>
-  <sub>Completed · 2026 · Beginner to intermediate</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img
+    src="../assets/course-review-cti.svg"
+    alt="Cyber Threat oduction to Cyber Threat Intelligence,
+covering the relationship between CTI and SOC operations, MITRE ATT&CK,
+threat actors, intelligence platforms, Microsoft Sentinel, and the
+foundations of a CTI program.
 
-### Summary
+**Best suited for:** beginners and SOC analysts moving toward CTI.  
+**My verdict:** a useful structured overview, but too introductory and
+Microsoft-oriented for experienced CTI practitioners.
 
-A broad and clearly structured introduction to Cyber Threat Intelligence.
+<details>
+<summary><strong>Open the complete course review →</strong></summary>
 
-The course covers SOC, Azure and Zero Trust fundamentals, intelligence
-concepts, CTI frameworks, MITRE ATT&CK, threat actors, CTI tools and
-platforms, AI-assisted CTI, and the foundations of building a CTI program.
+<br>
 
-The practical case studies introduce:
+### Course scope
 
+The course covers:
+
+- SOC fundamentals;
+- Microsoft Azure fundamentals;
+- Zero Trust fundamentals;
+- intelligence and Cyber Threat Intelligence;
+- CTI-related frameworks;
+- MITRE ATT&CK;
+- threat actors and Advanced Persistent Threats;
+- CTI tools and platforms;
+- Artificial Intelligence applied to CTI;
 - MISP deployment on Microsoft Azure;
 - APT41 research using MITRE ATT&CK;
 - CTI integration with Microsoft Sentinel;
-- the development of a CTI program.
+- fundamental considerations for building a CTI program.
 
 ### What I found useful
 
-- Clear progression across the main CTI concepts
+- Clear and logical progression across the principal CTI concepts
 - Good introduction to the relationship between CTI and SOC operations
 - Accessible overview of MITRE ATT&CK
 - Useful Microsoft Sentinel and Azure examples
 - Broad introduction to CTI tools and platforms
-- Relevant starting point for beginners or SOC analysts moving toward CTI
+- Relevant starting point for professionals discovering CTI
 
 ### Limitations
 
 - Most subjects remain introductory
 - Strong Microsoft and Azure orientation
 - Limited depth on OSINT tradecraft and source evaluation
-- Limited coverage of analytical confidence and uncertainty
-- Little emphasis on structured analytic techniques
-- Tool coverage is broader than the hands-on practice
+- Limited treatment of analytical confidence and uncertainty
+- Little emphasis on structured analytical techniques
+- Tool coverage is broader than the practical hands-on work
 - Experienced SOC or CTI practitioners may find much of the content familiar
 
-### Verdict
+### Final assessment
 
-**Recommended as a structured introduction to CTI, particularly for learners
-working in the Microsoft ecosystem.**
+**Recommended as a structured introduction to CTI, particularly for
+professionals working in the Microsoft ecosystem.**
 
-For experienced analysts, the course is more useful as a refresher and
-curriculum overview than as advanced CTI training. It should be complemented
-by deeper work on OSINT, evidence evaluation, intelligence requirements,
-structured analytical techniques, attribution, and CTI automation.
-`
+For an experienced analyst, the course is better used as a refresher and
+curriculum overview than as advanced CTI training.
+
+The course should be complemented by deeper learning in:
+
+- Priority Intelligence Requirements;
+- collection planning;
+- source reliability and information credibility;
+- structured analytical techniques;
+- analytical confidence;
+- OSINT investigation;
+- threat actor clustering and attribution;
+- vulnerability intelligence;
+- CTI automation.
+
+</details>
+
+<br>
+
+
