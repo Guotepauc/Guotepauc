@@ -103,5 +103,4 @@ Technical work will progressively include:
 Completed CTI courses, concise reviews, and related learning resources are
 maintained in the central learning library.
 
-../Learning/README.md#cti-courses
-``
+../Learning/README.md#cyber-threat-intelligence-learning
