@@ -95,18 +95,18 @@ It should be complemented by deeper learning in:
 <a id="mitre-attack-fundamentals"></a>
 
 <p align="center">
-  <img src="../assets/course-review-mitre-fundamentals.svg"
-       alt="MITRE ATT&amp;CK Fundamentals course
+  <img
+    src="../assets/course-review-mitre-fundamentals.svg"
+    alt="MITRE ATT&amp;CK Fundamentals course review"
+    width="100%">
 </p>
 
-The official MITRE ATT&CK Fundamentals curriculum provides a concise overview
-of the ATT&CK knowledge base, its defensive value, and its use across CTI,
-detection engineering, adversary emulation, assessments, and
+The official MITRE ATT&CK Fundamentals curriculum provides a concise overviewngineering, adversary emulation, assessments, and
 threat-informed defence.
 
 **Completion:** the three official core modules were completed. The complete
-17-video curriculum was reviewed and retained as a reference because most of
-the detailed fundamental concepts were already familiar from professional use.
+17-video curriculum was reviewed and retained as a reference because most
+fundamental concepts were already familiar from professional use.
 
 <details>
 <summary><strong>Open the complete training review →</strong></summary>
@@ -158,23 +158,23 @@ The 17-video series is organized into three modules.
 - The content is deliberately fundamental
 - Videos are very short and primarily conceptual
 - No substantial hands-on exercises
-- Limited value as a complete course for practitioners already using ATT&CK
-- Does not provide the analytical depth of the dedicated MITRE CTI training
-- Does not replace practical mapping from reports or raw incident data
+- Limited additional value for practitioners already using ATT&CK
+- Less analytical depth than the dedicated MITRE CTI training
+- No practical mapping exercises using reports or raw incident data
 
 ### Verdict
 
 **Recommended as a short, official ATT&CK foundation and terminology
 reference.**
 
-For practitioners already using ATT&CK, completing the three main modules and
-consulting the remaining videos selectively is sufficient. Watching all
-17 videos provides limited additional value when the underlying concepts are
-already understood.
+For practitioners already using ATT&CK, completing the three core modules
+and consulting the detailed videos selectively is sufficient. Watching all
+17 videos provides limited additional value when the underlying concepts
+are already mastered.
 
-The more valuable next step is the dedicated MITRE ATT&CK CTI Training, which
-includes mapping exercises, raw-data analysis, Navigator comparison, and
-defensive recommendations.
+The more valuable next step is the dedicated MITRE ATT&CK CTI Training,
+which includes mapping exercises, raw-data analysis, Navigator comparisons,
+and defensive recommendations.
 
 ### Next step
 
@@ -183,10 +183,3 @@ defensive recommendations.
 </details>
 
 <br>
-
----
-
-
-
-
-[← Back to the
