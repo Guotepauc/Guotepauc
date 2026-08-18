@@ -92,6 +92,100 @@ It should be complemented by deeper learning in:
 
 </details>
 
+<a id="mitre-attack-fundamentals"></a>
+
+<p align="center">
+  ../assets/course-review-mitre-fundamentals.svg
+</p>
+
+The official MITRE ATT&CK Fundamentals curriculum provides a concise overview
+of the ATT&CK knowledge base, its defensive value, and its use across CTI,
+detection engineering, adversary emulation, assessments, and
+threat-informed defence.
+
+**Completion:** the three official core modules were completed. The complete
+17-video curriculum was reviewed and retained as a reference because most of
+the detailed fundamental concepts were already familiar from professional use.
+
+<details>
+<summary><strong>Open the complete training review →</strong></summary>
+
+<br>
+
+### Curriculum
+
+The 17-video series is organized into three modules.
+
+#### Module 1: Understanding ATT&CK
+
+- Introduction to ATT&CK
+- Matrices and platforms
+- Tactics
+- Techniques and sub-techniques
+- Mitigations
+- Data sources and detections
+- Groups and software
+- How ATT&CK grows and evolves
+
+#### Module 2: Benefits of Using ATT&CK
+
+- Community perspective
+- Common language
+- Quantitative scorecard
+- ATT&CK Navigator
+
+#### Module 3: Operationalizing ATT&CK
+
+- Cyber Threat Intelligence
+- Analytics and detection
+- Adversary emulation and red teaming
+- Assessments and engineering
+- Threat-informed defence
+
+### What I found useful
+
+- Clear validation of the principal ATT&CK concepts
+- Useful distinction between tactics, techniques, sub-techniques, groups,
+  software, mitigations, and data sources
+- Concise overview of ATT&CK Navigator
+- Good introduction to connecting CTI with detection, emulation, and
+  defensive engineering
+- Official MITRE terminology suitable as a reference baseline
+
+### Limitations
+
+- The content is deliberately fundamental
+- Videos are very short and primarily conceptual
+- No substantial hands-on exercises
+- Limited value as a complete course for practitioners already using ATT&CK
+- Does not provide the analytical depth of the dedicated MITRE CTI training
+- Does not replace practical mapping from reports or raw incident data
+
+### Verdict
+
+**Recommended as a short, official ATT&CK foundation and terminology
+reference.**
+
+For practitioners already using ATT&CK, completing the three main modules and
+consulting the remaining videos selectively is sufficient. Watching all
+17 videos provides limited additional value when the underlying concepts are
+already understood.
+
+The more valuable next step is the dedicated MITRE ATT&CK CTI Training, which
+includes mapping exercises, raw-data analysis, Navigator comparison, and
+defensive recommendations.
+
+### Next step
+
+[MITRE ATT&CK CTI Training](https://attack.mitre.org/resources/learn-more-about-attack/training/cti/)
+
+</details>
+
+<br>
+
 ---
+
+
+
 
 [← Back to the
