@@ -95,7 +95,9 @@ It should be complemented by deeper learning in:
 <a id="mitre-attack-fundamentals"></a>
 
 <p align="center">
-  ../assets/course-review-mitre-fundamentals.svg
+  <p align="center">
+  <img src="../assets/course-review-mitre-fundamentals.svg"
+       alt="MITRE ATT&amp;CK Fundamentals course
 </p>
 
 The official MITRE ATT&CK Fundamentals curriculum provides a concise overview
