@@ -221,11 +221,13 @@ It should be complemented by deeper learning in:
 The official MITRE ATT&CK Fundamentals curriculum provides a concise overview
 of the ATT&CK knowledge base and its use across CTI, detection engineering,
 adversary emulation, assessments, and threat-informed defence.
+**Level:** Fundamental  
+**Format:** 17 short official videos organized into three modules  
+**Practical content:** Conceptual overview without hands-on exercises
 
-**Completion:** the three official core modules and five selected detailed
-videos were completed. The remaining videos were reviewed as reference
-material because the fundamental concepts were already familiar.
-
+A concise official introduction to the ATT&CK knowledge base, its terminology,
+its defensive value, and its application across CTI, detection engineering,
+adversary emulation, security assessments, and threat-informed defence.
 <details>
 <summary><strong>Open the complete training review →</strong></summary>
 
