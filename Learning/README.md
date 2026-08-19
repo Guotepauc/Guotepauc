@@ -8,16 +8,9 @@ their limitations, and the audience most likely to benefit.
 
 ---
 
-<a id=</a>
-
 ## Intelligence Analysis
 
-<a id="intelligence-analysis-levels-1-2-3"></a>
-
-<p align="center">
-  <img
-  ts/course-review-intelligence-analysis.svg
-</p>
+../assets/course-review-intelligence-analysis.svg
 
 A progressive introduction to the intelligence cycle, analytical techniques,
 collection disciplines, source evaluation, and intelligence dissemination.
@@ -39,8 +32,7 @@ The course combines three progressive levels:
 
 - **Level 1:** introduction and intelligence cycle
 - **Level 2:** analytical techniques, intelligence sources, and dissemination
-- **Level 3:** advanced concepts, predictive analysis, targeting, and threat
-  intelligence
+- **Level 3:** advanced concepts, predictive analysis, targeting, and threat intelligence
 
 The programme includes assignments, quizzes, a HUMINT scenario, and a final
 two-page intelligence-analysis exercise.
@@ -102,7 +94,7 @@ two-page intelligence-analysis exercise.
 - Cyber Threat Intelligence is only one small part of the curriculum
 - Some concepts are intentionally repeated across the three levels
 - Several analytical frameworks are introduced rather than deeply practised
-- HUMINT, surveillance, and targeting are less directly applicable to a corporate CTI role
+- HUMINT, surveillance, and targeting are less directly applicable to corporate CTI
 - UK surveillance legislation has limited applicability outside that legal context
 - The course does not cover ATT&CK mapping, STIX/TAXII, technical indicators,
   detection engineering, or CTI platforms in depth
@@ -119,8 +111,7 @@ The most transferable elements are:
 - communicating findings to different audiences
 - distinguishing data, information, and actionable intelligence
 
-These elements support the methodology of my vulnerability-intelligence
-project, particularly:
+These elements support my vulnerability-intelligence project through:
 
 - Priority Intelligence Requirements
 - collection requirements
@@ -147,19 +138,15 @@ and dissemination.
 
 ---
 
-<a id="cyber-threat-intelligence-learning"></a>
-
 ## Cyber Threat Intelligence
 
-<a id="christopher-nett-cyber-threat-intelligence"></a>
+### Cyber Threat Intelligence by Christopher Nett
 
-<p align="center">
-  ../assets/course-review-cti.svg
-</p>
+../assets/course-review-cti.svg
 
 A clear and well-organized introduction to Cyber Threat Intelligence, covering
-the relationship between CTI and SOC operations, MITRE ATT&CK, threat actors,
-intelligence platforms, Microsoft Sentinel, and the foundations of a CTI program.
+CTI and SOC operations, MITRE ATT&CK, threat actors, intelligence platforms,
+Microsoft Sentinel, and the foundations of a CTI program.
 
 **Best suited for:** beginners and SOC analysts moving toward CTI.  
 **My verdict:** useful as a structured overview, but too introductory and
@@ -172,11 +159,7 @@ Microsoft-oriented for experienced CTI practitioners.
 
 ### Course scope
 
-The course covers:
-
-- SOC fundamentals
-- Microsoft Azure fundamentals
-- Zero Trust fundamentals
+- SOC, Azure, and Zero Trust fundamentals
 - Intelligence and Cyber Threat Intelligence
 - CTI-related frameworks
 - MITRE ATT&CK
@@ -186,7 +169,7 @@ The course covers:
 - MISP deployment on Microsoft Azure
 - APT41 research using MITRE ATT&CK
 - CTI integration with Microsoft Sentinel
-- Fundamental considerations for building a CTI program
+- Building a CTI program
 
 ### What I found useful
 
@@ -215,36 +198,21 @@ professionals working in the Microsoft ecosystem.**
 For an experienced analyst, the course is better used as a refresher and
 curriculum overview than as advanced CTI training.
 
-It should be complemented by deeper learning in:
-
-- Priority Intelligence Requirements
-- Collection planning
-- Source reliability and information credibility
-- Structured analytical techniques
-- Analytical confidence
-- OSINT investigation
-- Threat actor clustering and attribution
-- Vulnerability intelligence
-- CTI automation
-
 </details>
 
 <br>
 
-<a id="mitre-attack-fundamentals"></a>
+### MITRE ATT&CK Fundamentals
 
-<p align="center">
-  ../assets/course-review-mitre-fundamentals.svg
-</p>
+../assets/course-review-mitre-fundamentals.svg
 
 The official MITRE ATT&CK Fundamentals curriculum provides a concise overview
-of the ATT&CK knowledge base, its defensive value, and its use across CTI,
-detection engineering, adversary emulation, assessments, and threat-informed defence.
+of the ATT&CK knowledge base and its use across CTI, detection engineering,
+adversary emulation, assessments, and threat-informed defence.
 
 **Completion:** the three official core modules and five selected detailed
-videos were completed. The complete 17-video curriculum was reviewed and
-retained as a reference because most fundamental concepts were already
-familiar from professional use.
+videos were completed. The remaining videos were reviewed as reference
+material because the fundamental concepts were already familiar.
 
 <details>
 <summary><strong>Open the complete training review →</strong></summary>
@@ -252,8 +220,6 @@ familiar from professional use.
 <br>
 
 ### Curriculum
-
-The 17-video series is organized into three modules.
 
 #### Module 1: Understanding ATT&CK
 
@@ -283,17 +249,17 @@ The 17-video series is organized into three modules.
 
 ### What I found useful
 
-- Clear validation of the principal ATT&CK concepts
-- Useful distinction between tactics, techniques, sub-techniques, groups,
-  software, mitigations, and data sources
+- Validation of the principal ATT&CK concepts
+- Distinction between tactics, techniques, sub-techniques, groups, software,
+  mitigations, and data sources
 - Concise overview of ATT&CK Navigator
-- Good introduction to connecting CTI with detection, emulation, and defensive engineering
-- Official MITRE terminology suitable as a reference baseline
+- Connection between CTI, detection, emulation, and defensive engineering
+- Official MITRE terminology as a reference baseline
 
 ### Limitations
 
-- The content is deliberately fundamental
-- Videos are very short and primarily conceptual
+- Deliberately fundamental content
+- Very short and primarily conceptual videos
 - No substantial hands-on exercises
 - Limited additional value for practitioners already using ATT&CK
 - Less analytical depth than the dedicated MITRE CTI training
@@ -301,15 +267,11 @@ The 17-video series is organized into three modules.
 
 ### Verdict
 
-**Recommended as a short, official ATT&CK foundation and terminology reference.**
+**Recommended as a short, official ATT&CK foundation and terminology
+reference.**
 
-For practitioners already using ATT&CK, completing the three core modules
-and consulting selected detailed videos is sufficient. Watching all 17 videos
-provides limited additional value when the underlying concepts are already mastered.
-
-The more valuable next step is the dedicated MITRE ATT&CK CTI Training, which
-includes mapping exercises, raw-data analysis, Navigator comparisons, and
-defensive recommendations.
+For practitioners already using ATT&CK, the three core modules and selected
+detailed videos are sufficient.
 
 ### Next step
 
