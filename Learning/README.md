@@ -12,12 +12,14 @@ practical depth, limitations, and the audience most likely to benefit.
 
 ![Intelligence Analysis course review](../assets/course-review-intelligence-analysis.svg)
 
-A progressive course covering the intelligence cycle, analytical techniques,
-collection disciplines, source evaluation, and intelligence dissemination.
+A progressive course on intelligence analysis designed primarily for military,
+law-enforcement, and intelligence-community audiences. It covers the
+intelligence cycle, analytical techniques, collection disciplines, source
+evaluation, and intelligence dissemination.
 
-Although several methodological concepts are transferable to CTI, OSINT, and
-corporate threat analysis, this is a general intelligence-analysis course and
-not a Cyber Threat Intelligence specialization.
+Several methodological concepts are transferable to CTI, OSINT, physical-threat
+analysis, and corporate intelligence. However, this is a general
+intelligence-analysis course, not a Cyber Threat Intelligence specialization.
 
 <details>
 <summary><strong>Open the complete course review →</strong></summary>
