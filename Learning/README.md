@@ -3,8 +3,8 @@
 Courses, labs, documentation, research papers, certifications, and practical
 resources across my cybersecurity learning domains.
 
-Resources are documented to show what they actually cover, what I found useful,
-their limitations, and the audience most likely to benefit.
+Resources are documented to show what they actually cover, their level,
+practical depth, limitations, and the audience most likely to benefit.
 
 ---
 
@@ -12,14 +12,18 @@ their limitations, and the audience most likely to benefit.
 
 ![Intelligence Analysis course review](../assets/course-review-intelligence-analysis.svg)
 
-A progressive introduction to the intelligence cycle, analytical techniques,
+**Level:** Introductory to intermediate  
+**Duration:** 5 h 11 min  
+**Focus:** General intelligence analysis  
+**Perspective:** Primarily military and law enforcement  
+**Practical content:** Quizzes, assignments, a HUMINT scenario, and a final written analysis
+
+A progressive course covering the intelligence cycle, analytical techniques,
 collection disciplines, source evaluation, and intelligence dissemination.
 
-**Best suited for:** learners entering intelligence analysis and practitioners
-seeking a structured review of general intelligence methods.  
-**My verdict:** useful for understanding foundations shared by military,
-law-enforcement, physical-threat, OSINT, and cyber-intelligence disciplines,
-but not a dedicated Cyber Threat Intelligence course.
+Although several methodological concepts are transferable to CTI, OSINT, and
+corporate threat analysis, this is a general intelligence-analysis course and
+not a Cyber Threat Intelligence specialization.
 
 <details>
 <summary><strong>Open the complete course review →</strong></summary>
@@ -78,20 +82,20 @@ two-page intelligence-analysis exercise.
 - Intelligence-led targeting
 - Threat intelligence
 
-### What I found useful
+### Strengths
 
 - Complete overview of the intelligence cycle
-- Strong connection between requirements, collection, analysis, and dissemination
+- Strong connection between direction, collection, processing, analysis, and dissemination
 - Useful introduction to source evaluation and collection disciplines
 - Multiple analytical frameworks presented in one curriculum
 - Coverage of written, graphical, and oral dissemination
 - Assignments and quizzes supporting knowledge validation
-- Methods transferable to CTI, OSINT, physical-threat analysis, and strategic intelligence
+- Methods transferable to OSINT, physical-threat analysis, strategic intelligence, and CTI
 
 ### Limitations
 
 - The primary perspective is military and law enforcement
-- Cyber Threat Intelligence is only one small part of the curriculum
+- Cyber Threat Intelligence is only a small part of the curriculum
 - Some concepts are intentionally repeated across the three levels
 - Several analytical frameworks are introduced rather than deeply practised
 - HUMINT, surveillance, and targeting are less directly applicable to corporate CTI
@@ -99,38 +103,18 @@ two-page intelligence-analysis exercise.
 - The course does not cover ATT&CK mapping, STIX/TAXII, technical indicators,
   detection engineering, or CTI platforms in depth
 
-### Application to my CTI work
+### Verdict
 
-The most transferable elements are:
+**Recommended for learners seeking a broad foundation in intelligence
+analysis, particularly in military or law-enforcement contexts.**
 
-- defining intelligence requirements
-- separating collection from analysis
-- assessing sources and information
-- maintaining a structured intelligence cycle
-- selecting analytical techniques according to the question
-- communicating findings to different audiences
-- distinguishing data, information, and actionable intelligence
+The course provides a useful overview of direction, collection, processing,
+analysis, source assessment, and dissemination. Its principal value for CTI
+practitioners lies in these transferable methodological foundations.
 
-These elements support my vulnerability-intelligence project through:
-
-- Priority Intelligence Requirements
-- collection requirements
-- source evaluation
-- analytical confidence
-- structured reporting
-- proportionate recommendations
-
-### Final assessment
-
-**Recommended for building or validating a general intelligence-analysis
-foundation.**
-
-The course is broader than Cyber Threat Intelligence and is therefore
-presented as Intelligence Analysis rather than a CTI specialization.
-
-For a CTI practitioner, its principal value lies in the transferable
-methodology: direction, collection, processing, source assessment, analysis,
-and dissemination.
+However, it does not provide significant coverage of technical CTI topics such
+as ATT&CK mapping, indicators, STIX/TAXII, threat-intelligence platforms,
+detection engineering, or vulnerability intelligence.
 
 </details>
 
@@ -144,13 +128,14 @@ and dissemination.
 
 ![Cyber Threat Intelligence course review](../assets/course-review-cti.svg)
 
-A clear and well-organized introduction to Cyber Threat Intelligence, covering
-CTI and SOC operations, MITRE ATT&CK, threat actors, intelligence platforms,
-Microsoft Sentinel, and the foundations of a CTI program.
+**Level:** Beginner to intermediate  
+**Duration:** 7 h 58 min  
+**Focus:** CTI foundations and Microsoft security ecosystem  
+**Practical content:** Product demonstrations and four high-level case studies
 
-**Best suited for:** beginners and SOC analysts moving toward CTI.  
-**My verdict:** useful as a structured overview, but too introductory and
-Microsoft-oriented for experienced CTI practitioners.
+A broad and clearly structured introduction to Cyber Threat Intelligence,
+covering CTI and SOC operations, MITRE ATT&CK, threat actors, intelligence
+platforms, Microsoft Sentinel, and the foundations of a CTI program.
 
 <details>
 <summary><strong>Open the complete course review →</strong></summary>
@@ -171,7 +156,7 @@ Microsoft-oriented for experienced CTI practitioners.
 - CTI integration with Microsoft Sentinel
 - Building a CTI program
 
-### What I found useful
+### Strengths
 
 - Clear progression across the principal CTI concepts
 - Good introduction to the relationship between CTI and SOC operations
@@ -190,25 +175,15 @@ Microsoft-oriented for experienced CTI practitioners.
 - Tool coverage is broader than the practical hands-on work
 - Experienced SOC or CTI practitioners may find much of the content familiar
 
-### Final assessment
+### Verdict
 
 **Recommended as a structured introduction to CTI, particularly for
 professionals working in the Microsoft ecosystem.**
 
-For an experienced analyst, the course is better used as a refresher and
-curriculum overview than as advanced CTI training.
-
-It should be complemented by deeper learning in:
-
-- Priority Intelligence Requirements
-- Collection planning
-- Source reliability and information credibility
-- Structured analytical techniques
-- Analytical confidence
-- OSINT investigation
-- Threat actor clustering and attribution
-- Vulnerability intelligence
-- CTI automation
+For experienced analysts, the course is more useful as a refresher and
+curriculum overview than as advanced CTI training. It should be complemented
+by deeper work on OSINT, evidence evaluation, intelligence requirements,
+structured analytical techniques, attribution, and CTI automation.
 
 </details>
 
@@ -218,16 +193,15 @@ It should be complemented by deeper learning in:
 
 ![MITRE ATT&CK Fundamentals course review](../assets/course-review-mitre-fundamentals.svg)
 
-The official MITRE ATT&CK Fundamentals curriculum provides a concise overview
-of the ATT&CK knowledge base and its use across CTI, detection engineering,
-adversary emulation, assessments, and threat-informed defence.
 **Level:** Fundamental  
 **Format:** 17 short official videos organized into three modules  
+**Focus:** ATT&CK terminology, structure, and defensive use cases  
 **Practical content:** Conceptual overview without hands-on exercises
 
 A concise official introduction to the ATT&CK knowledge base, its terminology,
 its defensive value, and its application across CTI, detection engineering,
 adversary emulation, security assessments, and threat-informed defence.
+
 <details>
 <summary><strong>Open the complete training review →</strong></summary>
 
@@ -261,31 +235,36 @@ adversary emulation, security assessments, and threat-informed defence.
 - Assessments and engineering
 - Threat-informed defence
 
-### What I found useful
+### Strengths
 
-- Validation of the principal ATT&CK concepts
-- Distinction between tactics, techniques, sub-techniques, groups, software,
-  mitigations, and data sources
+- Clear validation of the principal ATT&CK concepts
+- Useful distinction between tactics, techniques, sub-techniques, groups,
+  software, mitigations, and data sources
 - Concise overview of ATT&CK Navigator
-- Connection between CTI, detection, emulation, and defensive engineering
-- Official MITRE terminology as a reference baseline
+- Good introduction to connecting CTI with detection, emulation, and defensive engineering
+- Official MITRE terminology suitable as a reference baseline
 
 ### Limitations
 
 - Deliberately fundamental content
 - Very short and primarily conceptual videos
 - No substantial hands-on exercises
-- Limited additional value for practitioners already using ATT&CK
+- Limited technical depth for practitioners already using ATT&CK
 - Less analytical depth than the dedicated MITRE CTI training
 - No practical mapping exercises using reports or raw incident data
 
 ### Verdict
 
-**Recommended as a short, official ATT&CK foundation and terminology
-reference.**
+**Recommended as an official foundation and terminology reference for
+professionals discovering ATT&CK.**
 
-For practitioners already using ATT&CK, the three core modules and selected
-detailed videos are sufficient.
+The content is deliberately introductory and primarily conceptual. It provides
+a clear overview of ATT&CK components and use cases, but practitioners already
+working regularly with ATT&CK are unlikely to gain significant technical depth.
+
+The dedicated MITRE ATT&CK CTI Training is the more appropriate next step for
+practical mapping, analysis, Navigator comparisons, and defensive
+recommendations.
 
 ### Next step
 
