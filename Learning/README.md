@@ -7,24 +7,22 @@ Resources are documented to show what they actually cover, what I found useful,
 their limitations, and the audience most likely to benefit.
 
 ---
+
 <a id="intelligence-analysis-learning"></a>
 
 ## Intelligence Analysis
 
 <a id="intelligence-analysis-levels-1-2-3"></a>
 
-<p align=
+<p align="center">
   <img
-    src="../assets/course-gence-analysis.svg
-</p>
-
-A progressive introduction to the complete intelligence cycle, analytical
-techniques, collection disciplines, source evaluation, and intelligence
-dissemination.
+    src="../assets/course-review-intelligence-analysis.svg"
+    alt="Intelligence Analysis Levels 1, 2 , analytical techniques,
+collection disciplines, source evaluation, and intelligence dissemination.
 
 **Best suited for:** learners entering intelligence analysis and practitioners
-who want a structured review of general intelligence methods.  
-**My verdict:** useful for understanding the foundations shared by military,
+seeking a structured review of general intelligence methods.  
+**My verdict:** useful for understanding foundations shared by military,
 law-enforcement, physical-threat, OSINT, and cyber-intelligence disciplines,
 but not a dedicated Cyber Threat Intelligence course.
 
@@ -42,8 +40,8 @@ The course combines three progressive levels:
 - **Level 3:** advanced concepts, predictive analysis, targeting, and threat
   intelligence
 
-The programme includes assignments, questionnaires, a HUMINT scenario, and a
-final two-page intelligence-analysis exercise.
+The programme includes assignments, quizzes, a HUMINT scenario, and a final
+two-page intelligence-analysis exercise.
 
 ### Intelligence cycle
 
@@ -103,9 +101,9 @@ final two-page intelligence-analysis exercise.
 - The primary perspective is military and law enforcement
 - Cyber Threat Intelligence is only one small part of the curriculum
 - Some concepts are intentionally repeated across the three levels
-- Several analytical frameworks are introduced more than deeply practised
-- HUMINT, surveillance, and targeting sections are less directly applicable
-  to a corporate CTI role
+- Several analytical frameworks are introduced rather than deeply practised
+- HUMINT, surveillance, and targeting are less directly applicable to a
+  corporate CTI role
 - UK surveillance legislation has limited applicability outside that legal
   context
 - The course does not cover ATT&CK mapping, STIX/TAXII, technical indicators,
@@ -115,31 +113,31 @@ final two-page intelligence-analysis exercise.
 
 The most transferable elements are:
 
-- defining intelligence requirements;
-- separating collection from analysis;
-- assessing sources and information;
-- maintaining a structured intelligence cycle;
-- selecting analytical techniques according to the question;
-- communicating findings to different audiences;
-- distinguishing data, information, and actionable intelligence.
+- defining intelligence requirements
+- separating collection from analysis
+- assessing sources and information
+- maintaining a structured intelligence cycle
+- selecting analytical techniques according to the question
+- communicating findings to different audiences
+- distinguishing data, information, and actionable intelligence
 
 These elements support the methodology of my vulnerability-intelligence
 project, particularly:
 
-- Priority Intelligence Requirements;
-- collection requirements;
-- source evaluation;
-- analytical confidence;
-- structured reporting;
-- proportionate recommendations.
+- Priority Intelligence Requirements
+- collection requirements
+- source evaluation
+- analytical confidence
+- structured reporting
+- proportionate recommendations
 
 ### Final assessment
 
 **Recommended for building or validating a general intelligence-analysis
 foundation.**
 
-The course is broader than Cyber Threat Intelligence and should be presented
-as an Intelligence Analysis course rather than a CTI specialization.
+The course is broader than Cyber Threat Intelligence and is therefore
+presented as Intelligence Analysis rather than a CTI specialization.
 
 For a CTI practitioner, its principal value lies in the transferable
 methodology: direction, collection, processing, source assessment, analysis,
@@ -151,7 +149,6 @@ and dissemination.
 
 ---
 
-
 <a id="cyber-threat-intelligence-learning"></a>
 
 ## Cyber Threat Intelligence
@@ -159,14 +156,13 @@ and dissemination.
 <a id="christopher-nett-cyber-threat-intelligence"></a>
 
 <p align="center">
-  <img
-    src="../assets/course-review-cti.svg"
-    alt="Cyber Threat Intelligence course review"
-    width="100%">
+  ../assets/course-review-cti.svg
 </p>
 
-A clear and well-organized introductiont actors, intelligence platforms,
-Microsoft Sentinel, and the foundations of a CTI program.
+A clear and well-organized introduction to Cyber Threat Intelligence, covering
+the relationship between CTI and SOC operations, MITRE ATT&CK, threat actors,
+intelligence platforms, Microsoft Sentinel, and the foundations of a CTI
+program.
 
 **Best suited for:** beginners and SOC analysts moving toward CTI.  
 **My verdict:** useful as a structured overview, but too introductory and
@@ -236,21 +232,23 @@ It should be complemented by deeper learning in:
 
 </details>
 
+<br>
+
 <a id="mitre-attack-fundamentals"></a>
 
 <p align="center">
-  <img
-    src="../assets/course-review-mitre-fundamentals.svg"
-    alt="MITRE ATT&amp;CK Fundamentals course review"
-    width="100%">
+  ../assets/course-review-mitre-fundamentals.svg
 </p>
 
-The official MITRE ATT&CK Fundamentals curriculum provides a concise overviewngineering, adversary emulation, assessments, and
-threat-informed defence.
+The official MITRE ATT&CK Fundamentals curriculum provides a concise overview
+of the ATT&CK knowledge base, its defensive value, and its use across CTI,
+detection engineering, adversary emulation, assessments, and threat-informed
+defence.
 
-**Completion:** the three official core modules were completed. The complete
-17-video curriculum was reviewed and retained as a reference because most
-fundamental concepts were already familiar from professional use.
+**Completion:** the three official core modules and five selected detailed
+videos were completed. The complete 17-video curriculum was reviewed and
+retained as a reference because most fundamental concepts were already
+familiar from professional use.
 
 <details>
 <summary><strong>Open the complete training review →</strong></summary>
@@ -312,13 +310,13 @@ The 17-video series is organized into three modules.
 reference.**
 
 For practitioners already using ATT&CK, completing the three core modules
-and consulting the detailed videos selectively is sufficient. Watching all
-17 videos provides limited additional value when the underlying concepts
-are already mastered.
+and consulting selected detailed videos is sufficient. Watching all 17 videos
+provides limited additional value when the underlying concepts are already
+mastered.
 
-The more valuable next step is the dedicated MITRE ATT&CK CTI Training,
-which includes mapping exercises, raw-data analysis, Navigator comparisons,
-and defensive recommendations.
+The more valuable next step is the dedicated MITRE ATT&CK CTI Training, which
+includes mapping exercises, raw-data analysis, Navigator comparisons, and
+defensive recommendations.
 
 ### Next step
 
