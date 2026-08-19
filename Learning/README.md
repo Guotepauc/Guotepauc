@@ -13,8 +13,9 @@ their limitations, and the audience most likely to benefit.
 
 <a id="intelligence-analysis-levels-1-2-3"></a>
 
-<p align="center">
-  <img src="../assets/course-reviewnce-analysis.svg
+<p align=
+  <img
+    src="../assets/course-gence-analysis.svg
 </p>
 
 A progressive introduction to the complete intelligence cycle, analytical
