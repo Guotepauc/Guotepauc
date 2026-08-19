@@ -7,6 +7,149 @@ Resources are documented to show what they actually cover, what I found useful,
 their limitations, and the audience most likely to benefit.
 
 ---
+<a id="intelligence-analysis-learning"></a>
+
+## Intelligence Analysis
+
+<a id="intelligence-analysis-levels-1-2-3"></a>
+
+<p align="center">
+  <img src="../assets/course-reviewnce-analysis.svg
+</p>
+
+A progressive introduction to the complete intelligence cycle, analytical
+techniques, collection disciplines, source evaluation, and intelligence
+dissemination.
+
+**Best suited for:** learners entering intelligence analysis and practitioners
+who want a structured review of general intelligence methods.  
+**My verdict:** useful for understanding the foundations shared by military,
+law-enforcement, physical-threat, OSINT, and cyber-intelligence disciplines,
+but not a dedicated Cyber Threat Intelligence course.
+
+<details>
+<summary><strong>Open the complete course review →</strong></summary>
+
+<br>
+
+### Course structure
+
+The course combines three progressive levels:
+
+- **Level 1:** introduction and intelligence cycle
+- **Level 2:** analytical techniques, intelligence sources, and dissemination
+- **Level 3:** advanced concepts, predictive analysis, targeting, and threat
+  intelligence
+
+The programme includes assignments, questionnaires, a HUMINT scenario, and a
+final two-page intelligence-analysis exercise.
+
+### Intelligence cycle
+
+- Introduction to intelligence
+- Direction
+- Collection
+- Processing
+- Dissemination
+
+### Analytical techniques
+
+- SWOT analysis
+- Network analysis
+- Pattern analysis
+- PESTEL analysis
+- PMESII-ASCOPE
+
+### Sources and collection disciplines
+
+- Source evaluation and assessment
+- Types of intelligence sources
+- Human Intelligence
+- HUMINT questioning techniques
+- Open-Source Intelligence
+- Imagery Intelligence
+- Surveillance
+- UK surveillance legislation
+
+### Dissemination
+
+- Briefing techniques
+- Written dissemination
+- Graphical dissemination
+
+### Advanced concepts
+
+- Predictive analysis
+- Human terrain analysis
+- Human security
+- Intelligence-led targeting
+- Threat intelligence
+
+### What I found useful
+
+- Complete overview of the intelligence cycle
+- Strong connection between requirements, collection, analysis, and
+  dissemination
+- Useful introduction to source evaluation and collection disciplines
+- Multiple analytical frameworks presented in one curriculum
+- Coverage of written, graphical, and oral dissemination
+- Assignments and quizzes supporting knowledge validation
+- Methods transferable to CTI, OSINT, physical-threat analysis, and strategic
+  intelligence
+
+### Limitations
+
+- The primary perspective is military and law enforcement
+- Cyber Threat Intelligence is only one small part of the curriculum
+- Some concepts are intentionally repeated across the three levels
+- Several analytical frameworks are introduced more than deeply practised
+- HUMINT, surveillance, and targeting sections are less directly applicable
+  to a corporate CTI role
+- UK surveillance legislation has limited applicability outside that legal
+  context
+- The course does not cover ATT&CK mapping, STIX/TAXII, technical indicators,
+  detection engineering, or CTI platforms in depth
+
+### Application to my CTI work
+
+The most transferable elements are:
+
+- defining intelligence requirements;
+- separating collection from analysis;
+- assessing sources and information;
+- maintaining a structured intelligence cycle;
+- selecting analytical techniques according to the question;
+- communicating findings to different audiences;
+- distinguishing data, information, and actionable intelligence.
+
+These elements support the methodology of my vulnerability-intelligence
+project, particularly:
+
+- Priority Intelligence Requirements;
+- collection requirements;
+- source evaluation;
+- analytical confidence;
+- structured reporting;
+- proportionate recommendations.
+
+### Final assessment
+
+**Recommended for building or validating a general intelligence-analysis
+foundation.**
+
+The course is broader than Cyber Threat Intelligence and should be presented
+as an Intelligence Analysis course rather than a CTI specialization.
+
+For a CTI practitioner, its principal value lies in the transferable
+methodology: direction, collection, processing, source assessment, analysis,
+and dissemination.
+
+</details>
+
+<br>
+
+---
+
 
 <a id="cyber-threat-intelligence-learning"></a>
 
