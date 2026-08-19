@@ -10,7 +10,7 @@ their limitations, and the audience most likely to benefit.
 
 ## Intelligence Analysis
 
-../assets/course-review-intelligence-analysis.svg
+<p align="center">../assets/course-review-intelligence-analysis.svg</p>
 
 A progressive introduction to the intelligence cycle, analytical techniques,
 collection disciplines, source evaluation, and intelligence dissemination.
@@ -142,7 +142,7 @@ and dissemination.
 
 ### Cyber Threat Intelligence by Christopher Nett
 
-../assets/course-review-cti.svg
+<p align="center">../assets/course-review-cti.svg</p>
 
 A clear and well-organized introduction to Cyber Threat Intelligence, covering
 CTI and SOC operations, MITRE ATT&CK, threat actors, intelligence platforms,
@@ -216,7 +216,7 @@ It should be complemented by deeper learning in:
 
 ### MITRE ATT&CK Fundamentals
 
-../assets/course-review-mitre-fundamentals.svg
+<p align="center">../assets/course-review-mitre-fundamentals.svg</p>
 
 The official MITRE ATT&CK Fundamentals curriculum provides a concise overview
 of the ATT&CK knowledge base and its use across CTI, detection engineering,
