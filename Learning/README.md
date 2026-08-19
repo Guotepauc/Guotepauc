@@ -12,12 +12,6 @@ practical depth, limitations, and the audience most likely to benefit.
 
 ![Intelligence Analysis course review](../assets/course-review-intelligence-analysis.svg)
 
-**Level:** Introductory to intermediate  
-**Duration:** 5 h 11 min  
-**Focus:** General intelligence analysis  
-**Perspective:** Primarily military and law enforcement  
-**Practical content:** Quizzes, assignments, a HUMINT scenario, and a final written analysis
-
 A progressive course covering the intelligence cycle, analytical techniques,
 collection disciplines, source evaluation, and intelligence dissemination.
 
@@ -128,11 +122,6 @@ detection engineering, or vulnerability intelligence.
 
 ![Cyber Threat Intelligence course review](../assets/course-review-cti.svg)
 
-**Level:** Beginner to intermediate  
-**Duration:** 7 h 58 min  
-**Focus:** CTI foundations and Microsoft security ecosystem  
-**Practical content:** Product demonstrations and four high-level case studies
-
 A broad and clearly structured introduction to Cyber Threat Intelligence,
 covering CTI and SOC operations, MITRE ATT&CK, threat actors, intelligence
 platforms, Microsoft Sentinel, and the foundations of a CTI program.
@@ -192,11 +181,6 @@ structured analytical techniques, attribution, and CTI automation.
 ### MITRE ATT&CK Fundamentals
 
 ![MITRE ATT&CK Fundamentals course review](../assets/course-review-mitre-fundamentals.svg)
-
-**Level:** Fundamental  
-**Format:** 17 short official videos organized into three modules  
-**Focus:** ATT&CK terminology, structure, and defensive use cases  
-**Practical content:** Conceptual overview without hands-on exercises
 
 A concise official introduction to the ATT&CK knowledge base, its terminology,
 its defensive value, and its application across CTI, detection engineering,
