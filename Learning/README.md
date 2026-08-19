@@ -198,6 +198,18 @@ professionals working in the Microsoft ecosystem.**
 For an experienced analyst, the course is better used as a refresher and
 curriculum overview than as advanced CTI training.
 
+It should be complemented by deeper learning in:
+
+- Priority Intelligence Requirements
+- Collection planning
+- Source reliability and information credibility
+- Structured analytical techniques
+- Analytical confidence
+- OSINT investigation
+- Threat actor clustering and attribution
+- Vulnerability intelligence
+- CTI automation
+
 </details>
 
 <br>
