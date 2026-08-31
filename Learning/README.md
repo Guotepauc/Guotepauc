@@ -9,7 +9,7 @@ value, limitations, and the audience most likely to benefit.
 ---
 
 <p align="center">
-  <img src="assets/pytest-framework-course.svg" alt="Design and Build Test Framework with Python Pytest and API Tests" width="100%">
+  <img src="../assets/pytest-framework-course.svg" alt="Design and Build Test Framework with Python Pytest and API Tests" width="100%">
 </p>
 
 <details>
