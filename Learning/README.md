@@ -22,10 +22,6 @@ Resources are documented to show what they actually cover, their practical value
   <img src="../assets/learning-domain-cyber-threat-intelligence.svg" alt="Cyber Threat Intelligence" width="100%">
 </a>
 
-## Recently completed
-
-- **[MITRE ATT&CK for Cyber Threat Intelligence](domains/cyber-threat-intelligence.md#mitre-attck-for-cyber-threat-intelligence)**  
-  Practical ATT&CK training covering mappings from narrative reporting and raw data, analytical bias, structured storage, Navigator comparisons, and defensive recommendations.
 
 ## How this section is organized
 
