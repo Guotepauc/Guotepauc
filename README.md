@@ -22,30 +22,8 @@ The objective is not simply to list what I have completed. I want to document **
 
 <a href="./Learning/README.md"><img src="./assets/section-learning.svg" alt="Learning and Resources" width="100%"></a>
 
-The learning library is a major part of this GitHub space. It brings together **courses, labs, research papers, documentation, certifications and high-value resources** across all cybersecurity domains.
-
-Resources are organized by **subject**, not by provider. A TryHackMe AI module belongs under **AI &amp; AI Security**. A vulnerability exploitation challenge belongs under **Vulnerability Intelligence** or **Offensive Security**. An OSINT room belongs under **OSINT**.
-
-For substantial resources, I document:
-
-- **Time**: the realistic learning commitment;
-- **Difficulty**: introductory, intermediate or advanced;
-- **Hands-on**: how practical the material is;
-- **Verdict**: recommended, situational or reference;
-- **Scope**: what the resource actually covers;
-- **Audience**: who is likely to benefit from it;
-- **Limitations**: what is missing, dated or too superficial;
-- **Application**: how the knowledge connects to real security work.
-
-I do not use arbitrary numerical scores. Detailed notes explain why a resource may or may not be worth exploring.
-
 <p align="center"><a href="./Learning/README.md"><strong>Browse all learning paths and resource reviews →</strong></a></p>
 
-<a href="./Certifications/README.md"><img src="./assets/section-certifications.svg" alt="Certifications and Formal Learning" width="100%"></a>
-
-Certifications support the domains documented above, but they are not presented as a trophy wall. They are organized by subject and connected to the related learning, labs and projects.
-
-<p align="center"><a href="./Certifications/README.md"><strong>View certifications and formal learning →</strong></a></p>
 
 ## A non-linear path into cybersecurity
 
