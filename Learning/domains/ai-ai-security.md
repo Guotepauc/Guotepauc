@@ -1,37 +1,37 @@
 # AI & AI Security
 
-[← Back to d
+[← Back to Learning domains](../README.md)
 
-Learning related to secure AI architecture, LLM security, prompt injection, AI red teaming, RAG security, AI agents, model supply chains and enterprise AI governance.
-
----
-
-<p align="center">
-  ../../AI-Security/Learning/TryHackMe-AI-Security/README.md
-    <img src="../../AI-Securityth-tryhackme-ai-security.svg
-  </a>
-</p>
-
-A practical security path covering **LLM threats, prompt injection, AI threat modelling, secure RAG, model supply chains, data poisoning and sensitive information disclosure**.
-
-<p align="center">
-  ../../AI-Security/Learning/TryHackMe-AI-Security/README.md
-    <strong>Open the complete learning path review →</strong>
-  </a>
-</p>
+Learning related to LLM security, prompt injection, AI red teaming, model evaluation, RAG security, AI agents, and secure AI architecture.
 
 ---
 
 <p align="center">
-  <a href="../../AI-Security/Learningg-Azure-OpenAI/README.md
-    <img src="../../AI-Security/assets/course-mastering-azure-openai.svg" alt="Mastering Azure OpenAI from  the Azure AI ecosystem by **Kuljot Singh Bakshi**, combining theory and hands-on work across Azure OpenAI, multimodal models, RAG, Azure AI Search, Semantic Kernel, Azure AI Foundry, agents, Responsible AI, security and operations.
+  <a href="../../AI-Security/Learning/Mastering-Azure-OpenAI/README.md">
+    <img src="../../AI-Security/assets/course-mastering-azure-openai.svg" alt="Mastering Azure OpenAI from Zero to Hero course review" width="100%">
+  </a>
+</p>
+
+A long and comprehensive introduction to the Azure AI ecosystem by **Kuljot Singh Bakshi**. The course combines theory with extensive hands-on work across Azure OpenAI, multimodal models, RAG and Azure AI Search, Semantic Kernel, Azure AI Foundry, agents, Predictive AI, Responsible AI, security, and operations.
 
 <p align="center">
-  ../../AI-Security/Learning/Mastering-Azure-OpenAI/README.md
-    <strong>Open the complete course review and expandable curriculum →</strong>
-  </a>
+  <a href="../../AI-Security/Learning/Mastering-Azure-OpenAI/README.md"><strong>Open the complete course review and expandable curriculum →</strong></a>
 </p>
 
 ---
 
-../README.md
+<p align="center">
+  <a href="../../AI-Security/Learning/TryHackMe-AI-Security/README.md">
+    <img src="../../AI-Security/assets/path-tryhackme-ai-security.svg" alt="TryHackMe AI Security learning path review" width="100%">
+  </a>
+</p>
+
+A practical learning path that approaches AI security as a complete architecture rather than a collection of prompt attacks. It connects **LLM threats, prompt injection, secure RAG, agent permissions, model supply chains, data poisoning, sensitive information disclosure, threat modelling, and AI infrastructure reconnaissance**.
+
+<p align="center">
+  <a href="../../AI-Security/Learning/TryHackMe-AI-Security/README.md"><strong>Open the complete learning path review →</strong></a>
+</p>
+
+---
+
+[← Back to Learning domains](../README.md)
