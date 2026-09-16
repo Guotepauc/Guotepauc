@@ -29,7 +29,7 @@ The objective is not simply to list what I have completed. I want to document **
 
 My route into cybersecurity has not been conventional. It started with **mathematics then theoritical physics**, scientific research (Mesoscopic physics = Quantum mechanics) and telecommunications. From there, I moved into software development, cryptography, consulting and eventually cybersecurity (formation in University of Toulouse).
 
-My security work has since crossed **SOC operations, incident response, governance, vulnerability management and Cyber Threat Intelligence**.
+My experience connects **security operations, incident response, governance, vulnerability intelligence and Cyber Threat Intelligence**. I now focus on **secure AI architecture, threat-informed decision-making and the responsible automation of security workflows.**
 
 <p align="center"><a href="./About/Career-Journey.md"><strong>Read the full career journey →</strong></a></p>
 
