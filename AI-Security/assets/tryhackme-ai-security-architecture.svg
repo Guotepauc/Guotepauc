@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="700" viewBox="0 0 1400 700" role="img" aria-labelledby="title desc">
+  <title id="title">AI security architecture and defensive controls</title>
+  <desc id="desc">A layered AI architecture linking attack surfaces to practical security controls.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#160b25"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2dd4bf"/><stop offset="0.5" stop-color="#60a5fa"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#000" flood-opacity="0.38"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0l10 5-10 5z" fill="#64748b"/></marker>
+  </defs>
+  <rect x="10" y="10" width="1380" height="680" rx="30" fill="url(#bg)" stroke="url(#line)" stroke-width="3"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="70" y="72" fill="#f8fafc" font-size="38" font-weight="750">Secure the system around the model</text>
+    <text x="70" y="108" fill="#94a3b8" font-size="20">Trust boundaries, deterministic controls and evidence-preserving operations</text>
+
+    <g filter="url(#s)">
+      <rect x="70" y="160" width="220" height="112" rx="20" fill="#10202a" stroke="#2dd4bf" stroke-width="2"/>
+      <text x="180" y="198" text-anchor="middle" fill="#5eead4" font-size="20" font-weight="700">UNTRUSTED INPUT</text>
+      <text x="180" y="231" text-anchor="middle" fill="#cbd5e1" font-size="17">Users • files • web</text>
+      <text x="180" y="255" text-anchor="middle" fill="#cbd5e1" font-size="17">email • tool output</text>
+
+      <rect x="330" y="160" width="220" height="112" rx="20" fill="#10213a" stroke="#60a5fa" stroke-width="2"/>
+      <text x="440" y="198" text-anchor="middle" fill="#93c5fd" font-size="20" font-weight="700">IDENTITY &amp; API</text>
+      <text x="440" y="231" text-anchor="middle" fill="#cbd5e1" font-size="17">Authentication</text>
+      <text x="440" y="255" text-anchor="middle" fill="#cbd5e1" font-size="17">rate and token limits</text>
+
+      <rect x="590" y="160" width="220" height="112" rx="20" fill="#171a3a" stroke="#818cf8" stroke-width="2"/>
+      <text x="700" y="198" text-anchor="middle" fill="#a5b4fc" font-size="20" font-weight="700">ORCHESTRATION</text>
+      <text x="700" y="231" text-anchor="middle" fill="#cbd5e1" font-size="17">Prompts • memory</text>
+      <text x="700" y="255" text-anchor="middle" fill="#cbd5e1" font-size="17">context construction</text>
+
+      <rect x="850" y="160" width="220" height="112" rx="20" fill="#24163b" stroke="#a78bfa" stroke-width="2"/>
+      <text x="960" y="198" text-anchor="middle" fill="#c4b5fd" font-size="20" font-weight="700">MODEL</text>
+      <text x="960" y="231" text-anchor="middle" fill="#cbd5e1" font-size="17">Inference • behaviour</text>
+      <text x="960" y="255" text-anchor="middle" fill="#cbd5e1" font-size="17">weights • provider</text>
+
+      <rect x="1110" y="160" width="220" height="112" rx="20" fill="#30152f" stroke="#f472b6" stroke-width="2"/>
+      <text x="1220" y="198" text-anchor="middle" fill="#f9a8d4" font-size="20" font-weight="700">TOOLS &amp; OUTPUT</text>
+      <text x="1220" y="231" text-anchor="middle" fill="#cbd5e1" font-size="17">Agents • APIs • actions</text>
+      <text x="1220" y="255" text-anchor="middle" fill="#cbd5e1" font-size="17">validation • delivery</text>
+    </g>
+
+    <g stroke="#64748b" stroke-width="3" marker-end="url(#arrow)">
+      <path d="M290 216h35"/><path d="M550 216h35"/><path d="M810 216h35"/><path d="M1070 216h35"/>
+    </g>
+
+    <rect x="330" y="320" width="480" height="115" rx="22" fill="#0d2032" stroke="#38bdf8" stroke-width="2"/>
+    <text x="570" y="359" text-anchor="middle" fill="#7dd3fc" font-size="21" font-weight="700">RAG &amp; DATA PLANE</text>
+    <text x="570" y="392" text-anchor="middle" fill="#cbd5e1" font-size="17">Ingestion • provenance • authorization-before-retrieval</text>
+    <text x="570" y="417" text-anchor="middle" fill="#cbd5e1" font-size="17">metadata filters • vector isolation • citations</text>
+
+    <rect x="850" y="320" width="480" height="115" rx="22" fill="#26162f" stroke="#c084fc" stroke-width="2"/>
+    <text x="1090" y="359" text-anchor="middle" fill="#d8b4fe" font-size="21" font-weight="700">MODEL SUPPLY CHAIN</text>
+    <text x="1090" y="392" text-anchor="middle" fill="#cbd5e1" font-size="17">Provenance • hashes • safe loading • dependency review</text>
+    <text x="1090" y="417" text-anchor="middle" fill="#cbd5e1" font-size="17">architecture inspection • behavioural evaluation</text>
+
+    <path d="M700 272v43" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M960 272v43" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="70" y="492" width="1260" height="135" rx="24" fill="#0a1424" stroke="url(#line)" stroke-width="2"/>
+    <text x="700" y="531" text-anchor="middle" fill="#f8fafc" font-size="23" font-weight="700">DEFENSIVE CONTROL PLANE</text>
+    <g font-size="17">
+      <text x="125" y="574" fill="#5eead4" font-weight="700">AUTHORIZE</text><text x="125" y="600" fill="#cbd5e1">Least privilege • tenant isolation</text>
+      <text x="425" y="574" fill="#93c5fd" font-weight="700">CONSTRAIN</text><text x="425" y="600" fill="#cbd5e1">Tool allowlists • schemas • approval</text>
+      <text x="755" y="574" fill="#c4b5fd" font-weight="700">VALIDATE</text><text x="755" y="600" fill="#cbd5e1">Untrusted output • grounded evidence</text>
+      <text x="1055" y="574" fill="#f9a8d4" font-weight="700">OBSERVE</text><text x="1055" y="600" fill="#cbd5e1">Minimal logs • drift • abuse • audit</text>
+    </g>
+    <text x="700" y="667" text-anchor="middle" fill="#94a3b8" font-size="18">Prompt controls reduce risk. Architecture controls reduce impact.</text>
+  </g>
+</svg>
