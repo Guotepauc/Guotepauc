@@ -1,32 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">Basel Institute on Governance Open-source Intelligence</title>
-<desc id="desc">A visual course card showing the OSINT intelligence cycle from requirements to reporting.</desc>
-<defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071827"/><stop offset=".55" stop-color="#0b2530"/><stop offset="1" stop-color="#12302d"/></linearGradient>
- <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#34d399"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
- <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="13" flood-color="#000" flood-opacity=".42"/></filter>
- <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0l10 5-10 5z" fill="#94a3b8"/></marker>
-</defs>
-<rect x="16" y="16" width="1168" height="388" rx="30" fill="url(#bg)" stroke="url(#accent)" stroke-width="3" filter="url(#shadow)"/>
-<g font-family="Segoe UI, Arial, sans-serif">
- <text x="58" y="72" fill="#94a3b8" font-size="17" font-weight="700" letter-spacing="3">BASEL INSTITUTE ON GOVERNANCE</text>
- <text x="58" y="126" fill="#f8fafc" font-size="47" font-weight="760">Open-source Intelligence</text>
- <text x="58" y="161" fill="#cbd5e1" font-size="21">Case-driven research, evidence and reporting</text>
- <g transform="translate(58 205)">
-  <rect x="0" y="0" width="190" height="78" rx="17" fill="#0c3441" stroke="#22d3ee" stroke-width="2"/>
-  <text x="95" y="31" text-anchor="middle" fill="#67e8f9" font-size="17" font-weight="700">PLAN</text><text x="95" y="56" text-anchor="middle" fill="#cbd5e1" font-size="15">Questions &amp; hypotheses</text>
-  <rect x="220" y="0" width="190" height="78" rx="17" fill="#0d3b39" stroke="#2dd4bf" stroke-width="2"/>
-  <text x="315" y="31" text-anchor="middle" fill="#5eead4" font-size="17" font-weight="700">COLLECT</text><text x="315" y="56" text-anchor="middle" fill="#cbd5e1" font-size="15">Public sources</text>
-  <rect x="440" y="0" width="190" height="78" rx="17" fill="#123a31" stroke="#34d399" stroke-width="2"/>
-  <text x="535" y="31" text-anchor="middle" fill="#6ee7b7" font-size="17" font-weight="700">PROCESS</text><text x="535" y="56" text-anchor="middle" fill="#cbd5e1" font-size="15">Log, tag &amp; rate</text>
-  <rect x="660" y="0" width="190" height="78" rx="17" fill="#293826" stroke="#a3e635" stroke-width="2"/>
-  <text x="755" y="31" text-anchor="middle" fill="#bef264" font-size="17" font-weight="700">ANALYSE</text><text x="755" y="56" text-anchor="middle" fill="#cbd5e1" font-size="15">Graph &amp; timeline</text>
-  <rect x="880" y="0" width="190" height="78" rx="17" fill="#3a2d1c" stroke="#f59e0b" stroke-width="2"/>
-  <text x="975" y="31" text-anchor="middle" fill="#fbbf24" font-size="17" font-weight="700">REPORT</text><text x="975" y="56" text-anchor="middle" fill="#cbd5e1" font-size="15">Findings &amp; confidence</text>
-  <g stroke="#94a3b8" stroke-width="2.5" marker-end="url(#arrow)"><path d="M190 39h24"/><path d="M410 39h24"/><path d="M630 39h24"/><path d="M850 39h24"/></g>
- </g>
- <line x1="58" y1="322" x2="1142" y2="322" stroke="url(#accent)" stroke-width="2" opacity=".8"/>
- <text x="58" y="358" fill="#cbd5e1" font-size="18">WEB • DNS • ARCHIVES • SOCIAL MEDIA • IMAGES • COMMUNITIES • CRYPTO</text>
- <text x="1142" y="358" text-anchor="end" fill="#6ee7b7" font-size="18" font-weight="700">OPEN REVIEW  →</text>
- <text x="58" y="388" fill="#94a3b8" font-size="16">Requirement → traceable evidence → actionable intelligence</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Open-source Intelligence, Basel Institute on Governance</title>
+  <desc id="desc">Course review card for a case-driven OSINT course focused on financial investigations, evidence, and reporting.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111323"/>
+      <stop offset="1" stop-color="#171827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#52d79b"/>
+      <stop offset="1" stop-color="#73a7ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="1196" height="216" rx="18" fill="url(#bg)" stroke="#4b556b" stroke-width="3"/>
+  <rect x="0" y="0" width="8" height="220" rx="4" fill="#52d79b"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="49" fill="#64e3aa" font-size="15" font-weight="700" letter-spacing="2.6">COURSE REVIEW · BASEL INSTITUTE ON GOVERNANCE</text>
+    <text x="56" y="97" fill="#ffffff" font-size="36" font-weight="750">Open-source Intelligence</text>
+    <text x="56" y="136" fill="#d8e6dc" font-size="18">Financial investigations · Evidence · Entity mapping · Reporting</text>
+    <text x="56" y="181" fill="#9db1cf" font-size="15">FREE · SELF-PACED · CASE-DRIVEN · FINANCIAL-INVESTIGATION ORIENTED</text>
+    <circle cx="1095" cy="110" r="48" fill="#20313a" stroke="#70d6a5" stroke-width="4"/>
+    <path d="M1072 110h45M1101 92l18 18-18 18" fill="none" stroke="#70d6a5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
