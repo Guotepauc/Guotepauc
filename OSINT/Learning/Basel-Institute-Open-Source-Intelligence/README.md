@@ -1,6 +1,6 @@
 # Open-source Intelligence
 
-[← Back to OSINT learning](../../../Learning/domains/osint.md)
+[← Back to OSINT learning](../../../Learning/domains/osint-investigations.md)
 
 <p align="center">
   <img src="../../assets/course-basel-open-source-intelligence.svg" alt="Basel Institute on Governance Open-source Intelligence course review" width="100%">
@@ -149,4 +149,4 @@ This review documents methodology and personal learning outcomes. It does not re
 
 **Source:** Basel Institute on Governance, Open-source Intelligence course, and personal course notes.
 
-[← Back to OSINT learning](../../../Learning/domains/osint.md)
+[← Back to OSINT learning](../../../Learning/domains/osint-investigations.md)
