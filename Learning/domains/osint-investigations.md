@@ -22,7 +22,6 @@ Rather than presenting disconnected tools, the course follows a continuous inves
 [Read the complete review](../../OSINT/Learning/Basel-Institute-Open-Source-Intelligence/README.md)
 
 </details>
----
 
 ## Trace Labs OSINT Educational Series — Levels 1, 2 and 3
 
