@@ -41,3 +41,23 @@ The strongest value is methodological rather than tool-driven. The series connec
 [Read the complete review](../../OSINT/Learning/Trace-Labs-OSINT-Educational-Series/README.md)
 
 </details>
+
+## The Ultimate Dark Web, Anonymity, Privacy & Security Course
+
+<a href="../../OSINT/Learning/Ultimate-Dark-Web-Anonymity-Privacy-Security/README.md">
+  <img src="../../OSINT/assets/course-ultimate-dark-web-privacy-security.svg" alt="The Ultimate Dark Web, Anonymity, Privacy and Security course review" width="100%">
+</a>
+
+A practical course on **Tor, Tails, private communications, metadata, PGP, cryptocurrency privacy, Whonix, and Qubes OS**. Although the course is broader than OSINT, the material is highly relevant to sensitive online research, dark-web collection, source protection, and hostile-environment investigation.
+
+The strongest professional takeaway is not anonymity as a guarantee. It is the use of **threat modelling, identity separation, compartmentalisation, encryption, and endpoint containment** to reduce exposure during lawful investigative work.
+
+<details>
+<summary><strong>Open the complete course review →</strong></summary>
+
+<br>
+
+[Read the complete review](../../OSINT/Learning/Ultimate-Dark-Web-Anonymity-Privacy-Security/README.md)
+
+</details>
+
